@@ -1,6 +1,6 @@
 (()=> {
-  const WEB_URL  = (window.SHINA_WEB_URL  || "").trim();
-  const PRIV_URL = (window.SHINA_PRIV_URL || "").trim();
+  const WEB_URL  = "https://code4japan.org/";
+  const PRIV_URL = "https://code4japan.org/privacy";
   if (!WEB_URL && !PRIV_URL) return;
 
   const makeBtn = (label, href) => {
@@ -21,25 +21,25 @@
   };
 
   const inject = () => {
-    // 「レポート一覧」の見出しの直前に置くと安定
-    let anchor = Array.from(document.querySelectorAll("h2,h3"))
-      .find(h => h.textContent?.includes("レポート一覧"));
-    if (!anchor) anchor = document.querySelector("main,[role=main],body");
-    if (!anchor) return;
-
-    // 既に挿入済ならスキップ
     if (document.getElementById("__cfj-links")) return;
+    let anchor = Array.from(document.querySelectorAll("h2,h3")).find(
+      h => (h.textContent||"").includes("レポート一覧")
+    ) || document.querySelector("main,[role=main],body");
+    if (!anchor) return;
 
     const wrap = document.createElement("div");
     wrap.id = "__cfj-links";
     wrap.style.margin = "8px 0 16px";
+    wrap.style.display = "flex";
+    wrap.style.flexWrap = "wrap";
+    wrap.style.gap = "8px";
+
     if (WEB_URL)  wrap.appendChild(makeBtn("ウェブページ", WEB_URL));
     if (PRIV_URL) wrap.appendChild(makeBtn("プライバシーポリシー", PRIV_URL));
+
     anchor.parentNode.insertBefore(wrap, anchor);
   };
 
-  // 初回＋再描画にも対応
   inject();
-  const mo = new MutationObserver(()=>inject());
-  mo.observe(document.documentElement, {subtree:true, childList:true});
+  new MutationObserver(inject).observe(document.documentElement,{subtree:true,childList:true});
 })();
