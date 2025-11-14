@@ -1,0 +1,2294 @@
+1:"$Sreact.fragment"
+2:I[8708,["315","static/chunks/315-19ca0205aa2fdd55.js","458","static/chunks/458-4db2abcd82f4c9c6.js","124","static/chunks/124-8b6d8ff5759d10e8.js","48","static/chunks/48-3a76f8478d544215.js","177","static/chunks/app/layout-4ee75bbda26c9e8d.js"],"Provider"]
+3:I[87555,[],""]
+4:I[31295,[],""]
+5:I[32176,["315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","335","static/chunks/app/%5Bslug%5D/error-b85ff2b7d7b78a5a.js"],"default"]
+6:I[6874,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],""]
+7:I[38567,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"Button"]
+9:I[59665,[],"OutletBoundary"]
+c:I[59665,[],"ViewportBoundary"]
+e:I[59665,[],"MetadataBoundary"]
+10:I[26614,[],""]
+:HL["/_next/static/css/a63443551c7d7d9f.css","style"]
+0:{"P":null,"b":"ebOS2-XJiVgr9CJJqtc19","p":"","c":["","shinagawa-charter-q2",""],"i":false,"f":[[["",{"children":[["slug","shinagawa-charter-q2","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a63443551c7d7d9f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"suppressHydrationWarning":true,"lang":"ja","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=BIZ+UDPGothic&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"icon","href":"/meta/icon.png","sizes":"any"}],false]}],["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["slug","shinagawa-charter-q2","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","p",null,{"children":"ページが見つかりませんでした"}],["$","$L6",null,{"href":"/","children":["$","$L7",null,{"children":"トップに戻る"}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8","$undefined",null,["$","$L9",null,{"children":["$La","$Lb",null]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","ggfnT3r5WgB7LC7TFtnr1",{"children":[["$","$Lc",null,{"children":"$Ld"}],null]}],["$","$Le",null,{"children":"$Lf"}]]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+11:I[6091,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"Header"]
+12:I[81068,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"Box"]
+13:I[17921,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"Heading"]
+14:I[90310,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"Text"]
+15:I[7684,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"Icon"]
+16:I[4618,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"ClientContainer"]
+24:I[17264,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"Analysis"]
+25:I[91548,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"Separator"]
+27:I[18607,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"Footer"]
+17:T194c,import concurrent.futures
+import json
+import logging
+import os
+import re
+
+import pandas as pd
+from pydantic import BaseModel, Field
+from tqdm import tqdm
+
+from services.llm import request_to_chat_ai
+from services.parse_json_list import parse_extraction_response
+from utils import update_progress
+
+COMMA_AND_SPACE_AND_RIGHT_BRACKET = re.compile(r",\s*(\])")
+
+
+class ExtractionResponse(BaseModel):
+    extractedOpinionList: list[str] = Field(..., description="抽出した意見のリスト")
+
+
+def _validate_property_columns(property_columns: list[str], comments: pd.DataFrame) -> None:
+    if not all(property in comments.columns for property in property_columns):
+        raise ValueError(f"Properties {property_columns} not found in comments. Columns are {comments.columns}")
+
+
+def extraction(config):
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/args.csv"
+    model = config["extraction"]["model"]
+    prompt = config["extraction"]["prompt"]
+    workers = config["extraction"]["workers"]
+    limit = config["extraction"]["limit"]
+    property_columns = config["extraction"]["properties"]
+
+    if "provider" not in config:
+        raise RuntimeError("provider is not set")
+    provider = config["provider"]
+
+    # カラム名だけを読み込み、必要なカラムが含まれているか確認する
+    comments = pd.read_csv(f"inputs/{config['input']}.csv", nrows=0)
+    _validate_property_columns(property_columns, comments)
+    # エラーが出なかった場合、すべての行を読み込む
+    comments = pd.read_csv(
+        f"inputs/{config['input']}.csv", usecols=["comment-id", "comment-body"] + config["extraction"]["properties"]
+    )
+    comment_ids = (comments["comment-id"].values)[:limit]
+    comments.set_index("comment-id", inplace=True)
+    results = pd.DataFrame()
+    update_progress(config, total=len(comment_ids))
+
+    argument_map = {}
+    relation_rows = []
+
+    for i in tqdm(range(0, len(comment_ids), workers)):
+        batch = comment_ids[i : i + workers]
+        batch_inputs = [comments.loc[id]["comment-body"] for id in batch]
+        batch_results = extract_batch(
+            batch_inputs, prompt, model, workers, provider, config.get("local_llm_address"), config
+        )
+
+        for comment_id, extracted_args in zip(batch, batch_results, strict=False):
+            for j, arg in enumerate(extracted_args):
+                if arg not in argument_map:
+                    # argumentテーブルに追加
+                    arg_id = f"A{comment_id}_{j}"
+                    argument = arg
+                    argument_map[arg] = {
+                        "arg-id": arg_id,
+                        "argument": argument,
+                    }
+                else:
+                    arg_id = argument_map[arg]["arg-id"]
+
+                # relationテーブルにcommentとargの関係を追加
+                relation_row = {
+                    "arg-id": arg_id,
+                    "comment-id": comment_id,
+                }
+                relation_rows.append(relation_row)
+
+        update_progress(config, incr=len(batch))
+
+    # DataFrame化
+    results = pd.DataFrame(argument_map.values())
+    relation_df = pd.DataFrame(relation_rows)
+
+    if results.empty:
+        raise RuntimeError("result is empty, maybe bad prompt")
+
+    results.to_csv(path, index=False)
+    # comment-idとarg-idの関係を保存
+    relation_df.to_csv(f"outputs/{dataset}/relations.csv", index=False)
+
+
+logging.basicConfig(level=logging.DEBUG)
+
+
+def extract_batch(batch, prompt, model, workers, provider="openai", local_llm_address=None, config=None):
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+        futures_with_index = [
+            (i, executor.submit(extract_arguments, input, prompt, model, provider, local_llm_address))
+            for i, input in enumerate(batch)
+        ]
+
+        done, not_done = concurrent.futures.wait([f for _, f in futures_with_index], timeout=30)
+        results = [[] for _ in range(len(batch))]
+        total_token_input = 0
+        total_token_output = 0
+        total_token_usage = 0
+
+        for _, future in futures_with_index:
+            if future in not_done and not future.cancelled():
+                future.cancel()
+
+        for i, future in futures_with_index:
+            if future in done:
+                try:
+                    result = future.result()
+                    if isinstance(result, tuple) and len(result) == 4:
+                        items, token_input, token_output, token_total = result
+                        results[i] = items
+                        total_token_input += token_input
+                        total_token_output += token_output
+                        total_token_usage += token_total
+                    else:
+                        results[i] = result
+                except Exception as e:
+                    logging.error(f"Task {future} failed with error: {e}")
+                    results[i] = []
+
+        if config is not None:
+            config["total_token_usage"] = config.get("total_token_usage", 0) + total_token_usage
+            config["token_usage_input"] = config.get("token_usage_input", 0) + total_token_input
+            config["token_usage_output"] = config.get("token_usage_output", 0) + total_token_output
+            print(
+                f"Extraction batch: input={total_token_input}, output={total_token_output}, total={total_token_usage} tokens"
+            )
+
+        return results
+
+
+def extract_arguments(input, prompt, model, provider="openai", local_llm_address=None):
+    messages = [
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": input},
+    ]
+    try:
+        response, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=model,
+            is_json=False,
+            json_schema=ExtractionResponse,
+            provider=provider,
+            local_llm_address=local_llm_address,
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+        items = parse_extraction_response(response)
+        items = list(filter(None, items))  # omit empty strings
+        return items, token_input, token_output, token_total
+    except json.decoder.JSONDecodeError as e:
+        print("JSON error:", e)
+        print("Input was:", input)
+        print("Response was:", response)
+        print("Silently giving up on trying to generate valid list.")
+        return []
+18:T1149,"""Cluster the arguments using UMAP + HDBSCAN and GPT-4."""
+
+from importlib import import_module
+
+import numpy as np
+import pandas as pd
+import scipy.cluster.hierarchy as sch
+from sklearn.cluster import KMeans
+
+
+def hierarchical_clustering(config):
+    UMAP = import_module("umap").UMAP
+
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_clusters.csv"
+    arguments_df = pd.read_csv(f"outputs/{dataset}/args.csv", usecols=["arg-id", "argument"])
+    embeddings_df = pd.read_pickle(f"outputs/{dataset}/embeddings.pkl")
+    embeddings_array = np.asarray(embeddings_df["embedding"].values.tolist())
+    cluster_nums = config["hierarchical_clustering"]["cluster_nums"]
+
+    n_samples = embeddings_array.shape[0]
+    # デフォルト設定は15
+    default_n_neighbors = 15
+
+    # テスト等サンプルが少なすぎる場合、n_neighborsの設定値を下げる
+    if n_samples <= default_n_neighbors:
+        n_neighbors = max(2, n_samples - 1)  # 最低2以上
+    else:
+        n_neighbors = default_n_neighbors
+
+    umap_model = UMAP(random_state=42, n_components=2, n_neighbors=n_neighbors)
+    # TODO 詳細エラーメッセージを加える
+    # 以下のエラーの場合、おそらく元の意見件数が少なすぎることが原因
+    # TypeError: Cannot use scipy.linalg.eigh for sparse A with k >= N. Use scipy.linalg.eigh(A.toarray()) or reduce k.
+    umap_embeds = umap_model.fit_transform(embeddings_array)
+
+    cluster_results = hierarchical_clustering_embeddings(
+        umap_embeds=umap_embeds,
+        cluster_nums=cluster_nums,
+    )
+    result_df = pd.DataFrame(
+        {
+            "arg-id": arguments_df["arg-id"],
+            "argument": arguments_df["argument"],
+            "x": umap_embeds[:, 0],
+            "y": umap_embeds[:, 1],
+        }
+    )
+
+    for cluster_level, final_labels in enumerate(cluster_results.values(), start=1):
+        result_df[f"cluster-level-{cluster_level}-id"] = [f"{cluster_level}_{label}" for label in final_labels]
+
+    result_df.to_csv(path, index=False)
+
+
+def generate_cluster_count_list(min_clusters: int, max_clusters: int):
+    cluster_counts = []
+    current = min_clusters
+    cluster_counts.append(current)
+
+    if min_clusters == max_clusters:
+        return cluster_counts
+
+    while True:
+        next_double = current * 2
+        next_triple = current * 3
+
+        if next_double >= max_clusters:
+            if cluster_counts[-1] != max_clusters:
+                cluster_counts.append(max_clusters)
+            break
+
+        # 次の倍はまだ max_clusters に収まるが、3倍だと超える
+        # -> (次の倍は細かすぎるので)スキップして max_clusters に飛ぶ
+        if next_triple > max_clusters:
+            cluster_counts.append(max_clusters)
+            break
+
+        cluster_counts.append(next_double)
+        current = next_double
+
+    return cluster_counts
+
+
+def merge_clusters_with_hierarchy(
+    cluster_centers: np.ndarray,
+    kmeans_labels: np.ndarray,
+    umap_array: np.ndarray,
+    n_cluster_cut: int,
+):
+    Z = sch.linkage(cluster_centers, method="ward")
+    cluster_labels_merged = sch.fcluster(Z, t=n_cluster_cut, criterion="maxclust")
+
+    n_samples = umap_array.shape[0]
+    final_labels = np.zeros(n_samples, dtype=int)
+
+    for i in range(n_samples):
+        original_label = kmeans_labels[i]
+        final_labels[i] = cluster_labels_merged[original_label]
+
+    return final_labels
+
+
+def hierarchical_clustering_embeddings(
+    umap_embeds,
+    cluster_nums,
+):
+    # 最大分割数でクラスタリングを実施
+    print("start initial clustering")
+    initial_cluster_num = cluster_nums[-1]
+    kmeans_model = KMeans(n_clusters=initial_cluster_num, random_state=42)
+    kmeans_model.fit(umap_embeds)
+    print("end initial clustering")
+
+    results = {}
+    print("start hierarchical clustering")
+    cluster_nums.sort()
+    print(cluster_nums)
+    for n_cluster_cut in cluster_nums[:-1]:
+        print("n_cluster_cut: ", n_cluster_cut)
+        final_labels = merge_clusters_with_hierarchy(
+            cluster_centers=kmeans_model.cluster_centers_,
+            kmeans_labels=kmeans_model.labels_,
+            umap_array=umap_embeds,
+            n_cluster_cut=n_cluster_cut,
+        )
+        results[n_cluster_cut] = final_labels
+
+    results[initial_cluster_num] = kmeans_model.labels_
+    print("end hierarchical clustering")
+
+    return results
+19:T1c36,import json
+import os
+from concurrent.futures import ThreadPoolExecutor
+from functools import partial
+from typing import TypedDict
+
+import pandas as pd
+from pydantic import BaseModel, Field
+
+from services.llm import request_to_chat_ai
+
+
+class LabellingResult(TypedDict):
+    """各クラスタのラベリング結果を表す型"""
+
+    cluster_id: str  # クラスタのID
+    label: str  # クラスタのラベル名
+    description: str  # クラスタの説明文
+
+
+def hierarchical_initial_labelling(config: dict) -> None:
+    """階層的クラスタリングの初期ラベリングを実行する
+
+    Args:
+        config: 設定情報を含む辞書
+            - output_dir: 出力ディレクトリ名
+            - hierarchical_initial_labelling: 初期ラベリングの設定
+                - sampling_num: サンプリング数
+                - prompt: LLMへのプロンプト
+                - model: 使用するLLMモデル名
+                - workers: 並列処理のワーカー数
+            - provider: LLMプロバイダー
+    """
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_initial_labels.csv"
+    clusters_argument_df = pd.read_csv(f"outputs/{dataset}/hierarchical_clusters.csv")
+
+    cluster_id_columns = [col for col in clusters_argument_df.columns if col.startswith("cluster-level-")]
+    initial_cluster_id_column = cluster_id_columns[-1]
+    sampling_num = config["hierarchical_initial_labelling"]["sampling_num"]
+    initial_labelling_prompt = config["hierarchical_initial_labelling"]["prompt"]
+    model = config["hierarchical_initial_labelling"]["model"]
+    workers = config["hierarchical_initial_labelling"]["workers"]
+
+    # トークン使用量を追跡するための変数を初期化
+    config["total_token_usage"] = config.get("total_token_usage", 0)
+
+    initial_label_df = initial_labelling(
+        initial_labelling_prompt,
+        clusters_argument_df,
+        sampling_num,
+        model,
+        workers,
+        config["provider"],
+        config.get("local_llm_address"),
+        config,  # configを渡して、トークン使用量を累積できるようにする
+    )
+    print("start initial labelling")
+    initial_clusters_argument_df = clusters_argument_df.merge(
+        initial_label_df,
+        left_on=initial_cluster_id_column,
+        right_on="cluster_id",
+        how="left",
+    ).rename(
+        columns={
+            "label": f"{initial_cluster_id_column.replace('-id', '')}-label",
+            "description": f"{initial_cluster_id_column.replace('-id', '')}-description",
+        }
+    )
+    print("end initial labelling")
+    initial_clusters_argument_df.to_csv(path, index=False)
+
+
+def initial_labelling(
+    prompt: str,
+    clusters_df: pd.DataFrame,
+    sampling_num: int,
+    model: str,
+    workers: int,
+    provider: str = "openai",
+    local_llm_address: str | None = None,
+    config: dict | None = None,  # configを追加
+) -> pd.DataFrame:
+    """各クラスタに対して初期ラベリングを実行する
+
+    Args:
+        prompt: LLMへのプロンプト
+        clusters_df: クラスタリング結果のDataFrame
+        sampling_num: 各クラスタからサンプリングする意見の数
+        model: 使用するLLMモデル名
+        workers: 並列処理のワーカー数
+        provider: LLMプロバイダー
+        local_llm_address: ローカルLLMのアドレス
+        config: 設定情報を含む辞書（トークン使用量の累積に使用）
+
+    Returns:
+        各クラスタのラベリング結果を含むDataFrame
+    """
+    cluster_columns = [col for col in clusters_df.columns if col.startswith("cluster-level-")]
+    initial_cluster_column = cluster_columns[-1]
+    cluster_ids = clusters_df[initial_cluster_column].unique()
+    process_func = partial(
+        process_initial_labelling,
+        df=clusters_df,
+        prompt=prompt,
+        sampling_num=sampling_num,
+        target_column=initial_cluster_column,
+        model=model,
+        provider=provider,
+        local_llm_address=local_llm_address,
+        config=config,  # configを渡す
+    )
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        results = list(executor.map(process_func, cluster_ids))
+    return pd.DataFrame(results)
+
+
+class LabellingFromat(BaseModel):
+    """ラベリング結果のフォーマットを定義する"""
+
+    label: str = Field(..., description="クラスタのラベル名")
+    description: str = Field(..., description="クラスタの説明文")
+
+
+def process_initial_labelling(
+    cluster_id: str,
+    df: pd.DataFrame,
+    prompt: str,
+    sampling_num: int,
+    target_column: str,
+    model: str,
+    provider: str = "openai",
+    local_llm_address: str | None = None,
+    config: dict | None = None,  # configを追加
+) -> LabellingResult:
+    """個別のクラスタに対してラベリングを実行する
+
+    Args:
+        cluster_id: 処理対象のクラスタID
+        df: クラスタリング結果のDataFrame
+        prompt: LLMへのプロンプト
+        sampling_num: サンプリングする意見の数
+        target_column: クラスタIDが格納されている列名
+        model: 使用するLLMモデル名
+        provider: LLMプロバイダー
+        local_llm_address: ローカルLLMのアドレス
+        config: 設定情報を含む辞書（トークン使用量の累積に使用）
+
+    Returns:
+        クラスタのラベリング結果
+    """
+    cluster_data = df[df[target_column] == cluster_id]
+    sampling_num = min(sampling_num, len(cluster_data))
+    cluster = cluster_data.sample(sampling_num)
+    input = "\n".join(cluster["argument"].values)
+    messages = [
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": input},
+    ]
+    try:
+        response_text, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=model,
+            provider=provider,
+            json_schema=LabellingFromat,
+            local_llm_address=local_llm_address,
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+
+        # トークン使用量を累積（configが渡されている場合）
+        if config is not None:
+            config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+            config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+            config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+
+        response_json = json.loads(response_text) if isinstance(response_text, str) else response_text
+        return LabellingResult(
+            cluster_id=cluster_id,
+            label=response_json.get("label", "エラーでラベル名が取得できませんでした"),
+            description=response_json.get("description", "エラーで解説が取得できませんでした"),
+        )
+    except Exception as e:
+        print(e)
+        return LabellingResult(
+            cluster_id=cluster_id,
+            label="エラーでラベル名が取得できませんでした",
+            description="エラーで解説が取得できませんでした",
+        )
+1a:T337b,import json
+import os
+from concurrent.futures import ThreadPoolExecutor
+from dataclasses import dataclass
+from functools import partial
+
+import numpy as np
+import pandas as pd
+from pydantic import BaseModel, Field
+from tqdm import tqdm
+
+from services.llm import request_to_chat_ai
+
+
+@dataclass
+class ClusterColumns:
+    """同一階層のクラスター関連のカラム名を管理するクラス"""
+
+    id: str
+    label: str
+    description: str
+
+    @classmethod
+    def from_id_column(cls, id_column: str) -> "ClusterColumns":
+        """ID列名から関連するカラム名を生成"""
+        return cls(
+            id=id_column,
+            label=id_column.replace("-id", "-label"),
+            description=id_column.replace("-id", "-description"),
+        )
+
+
+@dataclass
+class ClusterValues:
+    """対象クラスタのlabel/descriptionを管理するクラス"""
+
+    label: str
+    description: str
+
+    def to_prompt_text(self) -> str:
+        return f"- {self.label}: {self.description}"
+
+
+def hierarchical_merge_labelling(config: dict) -> None:
+    """階層的クラスタリングの結果に対してマージラベリングを実行する
+
+    Args:
+        config: 設定情報を含む辞書
+            - output_dir: 出力ディレクトリ名
+            - hierarchical_merge_labelling: マージラベリングの設定
+                - sampling_num: サンプリング数
+                - prompt: LLMへのプロンプト
+                - model: 使用するLLMモデル名
+                - workers: 並列処理のワーカー数
+            - provider: LLMプロバイダー
+    """
+    dataset = config["output_dir"]
+    merge_path = f"outputs/{dataset}/hierarchical_merge_labels.csv"
+    clusters_df = pd.read_csv(f"outputs/{dataset}/hierarchical_initial_labels.csv")
+
+    cluster_id_columns: list[str] = _filter_id_columns(clusters_df.columns)
+    # ボトムクラスタのラベル・説明とクラスタid付きの各argumentを入力し、各階層のクラスタラベル・説明を生成し、argumentに付けたdfを作成
+    merge_result_df = merge_labelling(
+        clusters_df=clusters_df,
+        cluster_id_columns=sorted(cluster_id_columns, reverse=True),
+        config=config,
+    )
+    # 上記のdfから各クラスタのlevel, id, label, description, valueを取得してdfを作成
+    melted_df = melt_cluster_data(merge_result_df)
+    # 上記のdfに親子関係を追加
+    parent_child_df = _build_parent_child_mapping(merge_result_df, cluster_id_columns)
+    melted_df = melted_df.merge(parent_child_df, on=["level", "id"], how="left")
+    density_df = calculate_cluster_density(melted_df, config)
+    density_df.to_csv(merge_path, index=False)
+
+
+def _build_parent_child_mapping(df: pd.DataFrame, cluster_id_columns: list[str]):
+    """クラスタ間の親子関係をマッピングする
+
+    Args:
+        df: クラスタリング結果のDataFrame
+        cluster_id_columns: クラスタIDのカラム名のリスト
+
+    Returns:
+        親子関係のマッピング情報を含むDataFrame
+    """
+    results = []
+    top_cluster_column = cluster_id_columns[0]
+    top_cluster_values = df[top_cluster_column].unique()
+    for c in top_cluster_values:
+        results.append(
+            {
+                "level": 1,
+                "id": c,
+                "parent": "0",  # aggregationで追加する全体クラスタのid
+            }
+        )
+
+    for idx in range(len(cluster_id_columns) - 1):
+        current_column = cluster_id_columns[idx]
+        children_column = cluster_id_columns[idx + 1]
+        current_level = current_column.replace("-id", "").replace("cluster-level-", "")
+        # 現在のレベルのクラスタid
+        current_cluster_values = df[current_column].unique()
+        for current_id in current_cluster_values:
+            children_ids = df.loc[df[current_column] == current_id, children_column].unique()
+            for child_id in children_ids:
+                results.append(
+                    {
+                        "level": int(current_level) + 1,
+                        "id": child_id,
+                        "parent": current_id,
+                    }
+                )
+    return pd.DataFrame(results)
+
+
+def _filter_id_columns(columns: list[str]) -> list[str]:
+    """クラスタIDのカラム名をフィルタリングする
+
+    Args:
+        columns: 全カラム名のリスト
+
+    Returns:
+        クラスタIDのカラム名のリスト
+    """
+    return [col for col in columns if col.startswith("cluster-level-") and col.endswith("-id")]
+
+
+def melt_cluster_data(df: pd.DataFrame) -> pd.DataFrame:
+    """クラスタデータを行形式に変換する
+
+    cluster-level-n-(id|label|description) を行形式 (level, id, label, description, value) にまとめる。
+    [cluster-level-n-id, cluster-level-n-label, cluster-level-n-description] を [level, id, label, description, value(件数)] に変換する。
+
+    Args:
+        df: クラスタリング結果のDataFrame
+
+    Returns:
+        行形式に変換されたDataFrame
+    """
+    id_columns: list[str] = _filter_id_columns(df.columns)
+    levels: set[int] = {int(col.replace("cluster-level-", "").replace("-id", "")) for col in id_columns}
+    all_rows: list[dict] = []
+
+    # levelごとに各クラスタの出現件数を集計・縦持ちにする
+    for level in levels:
+        cluster_columns = ClusterColumns.from_id_column(f"cluster-level-{level}-id")
+        # クラスタidごとの件数集計
+        level_count_df = df.groupby(cluster_columns.id).size().reset_index(name="value")
+
+        level_unique_val_df = df[
+            [cluster_columns.id, cluster_columns.label, cluster_columns.description]
+        ].drop_duplicates()
+        level_unique_val_df = level_unique_val_df.merge(level_count_df, on=cluster_columns.id, how="left")
+        level_unique_vals = [
+            {
+                "level": level,
+                "id": row[cluster_columns.id],
+                "label": row[cluster_columns.label],
+                "description": row[cluster_columns.description],
+                "value": row["value"],
+            }
+            for _, row in level_unique_val_df.iterrows()
+        ]
+        all_rows.extend(level_unique_vals)
+    return pd.DataFrame(all_rows)
+
+
+def merge_labelling(clusters_df: pd.DataFrame, cluster_id_columns: list[str], config) -> pd.DataFrame:
+    """階層的なクラスタのマージラベリングを実行する
+
+    Args:
+        clusters_df: クラスタリング結果のDataFrame
+        cluster_id_columns: クラスタIDのカラム名のリスト
+        config: 設定情報を含む辞書
+
+    Returns:
+        マージラベリング結果を含むDataFrame
+    """
+    for idx in tqdm(range(len(cluster_id_columns) - 1)):
+        previous_columns = ClusterColumns.from_id_column(cluster_id_columns[idx])
+        current_columns = ClusterColumns.from_id_column(cluster_id_columns[idx + 1])
+
+        process_fn = partial(
+            process_merge_labelling,
+            result_df=clusters_df,
+            current_columns=current_columns,
+            previous_columns=previous_columns,
+            config=config,
+        )
+
+        current_cluster_ids = sorted(clusters_df[current_columns.id].unique())
+        with ThreadPoolExecutor(max_workers=config["hierarchical_merge_labelling"]["workers"]) as executor:
+            responses = list(
+                tqdm(
+                    executor.map(process_fn, current_cluster_ids),
+                    total=len(current_cluster_ids),
+                )
+            )
+
+        current_result_df = pd.DataFrame(responses)
+        clusters_df = clusters_df.merge(current_result_df, on=[current_columns.id])
+    return clusters_df
+
+
+class LabellingFromat(BaseModel):
+    """ラベリング結果のフォーマットを定義する"""
+
+    label: str = Field(..., description="クラスタのラベル名")
+    description: str = Field(..., description="クラスタの説明文")
+
+
+def process_merge_labelling(
+    target_cluster_id: str,
+    result_df: pd.DataFrame,
+    current_columns: ClusterColumns,
+    previous_columns: ClusterColumns,
+    config,
+):
+    """個別のクラスタに対してマージラベリングを実行する
+
+    Args:
+        target_cluster_id: 処理対象のクラスタID
+        result_df: クラスタリング結果のDataFrame
+        current_columns: 現在のレベルのカラム情報
+        previous_columns: 前のレベルのカラム情報
+        config: 設定情報を含む辞書
+
+    Returns:
+        マージラベリング結果を含む辞書
+    """
+
+    def filter_previous_values(df: pd.DataFrame, previous_columns: ClusterColumns) -> list[ClusterValues]:
+        """前のレベルのクラスタ情報を取得する"""
+        previous_records = df[df[current_columns.id] == target_cluster_id][
+            [previous_columns.label, previous_columns.description]
+        ].drop_duplicates()
+        previous_values = [
+            ClusterValues(
+                label=row[previous_columns.label],
+                description=row[previous_columns.description],
+            )
+            for _, row in previous_records.iterrows()
+        ]
+        return previous_values
+
+    previous_values = filter_previous_values(result_df, previous_columns)
+    if len(previous_values) == 1:
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: previous_values[0].label,
+            current_columns.description: previous_values[0].description,
+        }
+    elif len(previous_values) == 0:
+        raise ValueError(f"クラスタ {target_cluster_id} には前のレベルのクラスタが存在しません。")
+
+    current_cluster_data = result_df[result_df[current_columns.id] == target_cluster_id]
+    sampling_num = min(
+        config["hierarchical_merge_labelling"]["sampling_num"],
+        len(current_cluster_data),
+    )
+    sampled_data = current_cluster_data.sample(sampling_num)
+    sampled_argument_text = "\n".join(sampled_data["argument"].values)
+    cluster_text = "\n".join([value.to_prompt_text() for value in previous_values])
+    messages = [
+        {"role": "system", "content": config["hierarchical_merge_labelling"]["prompt"]},
+        {
+            "role": "user",
+            "content": "クラスタラベル\n" + cluster_text + "\n" + "クラスタの意見\n" + sampled_argument_text,
+        },
+    ]
+    try:
+        response_text, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=config["hierarchical_merge_labelling"]["model"],
+            json_schema=LabellingFromat,
+            provider=config["provider"],
+            local_llm_address=config.get("local_llm_address"),
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+
+        config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+        config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+        config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+        print(f"Merge labelling: input={token_input}, output={token_output}, total={token_total} tokens")
+
+        response_json = json.loads(response_text) if isinstance(response_text, str) else response_text
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: response_json.get("label", "エラーでラベル名が取得できませんでした"),
+            current_columns.description: response_json.get("description", "エラーで解説が取得できませんでした"),
+        }
+    except Exception as e:
+        print(f"エラーが発生しました: {e}")
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: "エラーでラベル名が取得できませんでした",
+            current_columns.description: "エラーで解説が取得できませんでした",
+        }
+
+
+def calculate_cluster_density(melted_df: pd.DataFrame, config: dict):
+    """クラスタ内の密度計算"""
+    hierarchical_cluster_df = pd.read_csv(f"outputs/{config['output_dir']}/hierarchical_clusters.csv")
+
+    densities = []
+    for level, c_id in zip(melted_df["level"], melted_df["id"], strict=False):
+        cluster_embeds = hierarchical_cluster_df[hierarchical_cluster_df[f"cluster-level-{level}-id"] == c_id][
+            ["x", "y"]
+        ].values
+        density = calculate_density(cluster_embeds)
+        densities.append(density)
+
+    # 密度のランクを計算
+    melted_df["density"] = densities
+    melted_df["density_rank"] = melted_df.groupby("level")["density"].rank(ascending=False, method="first")
+    melted_df["density_rank_percentile"] = melted_df.groupby("level")["density_rank"].transform(lambda x: x / len(x))
+    return melted_df
+
+
+def calculate_density(embeds: np.ndarray):
+    """平均距離に基づいて密度を計算"""
+    center = np.mean(embeds, axis=0)
+    distances = np.linalg.norm(embeds - center, axis=1)
+    avg_distance = np.mean(distances)
+    density = 1 / (avg_distance + 1e-10)
+    return density
+1b:Ta82,"""Create summaries for the clusters."""
+
+import json
+import os
+import re
+
+import pandas as pd
+from pydantic import BaseModel, Field
+
+from services.llm import request_to_chat_ai
+
+
+class OverviewResponse(BaseModel):
+    summary: str = Field(..., description="クラスターの全体的な要約")
+
+
+def hierarchical_overview(config):
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_overview.txt"
+
+    hierarchical_label_df = pd.read_csv(f"outputs/{dataset}/hierarchical_merge_labels.csv")
+
+    prompt = config["hierarchical_overview"]["prompt"]
+    model = config["hierarchical_overview"]["model"]
+
+    # TODO: level1で固定にしているが、設定で変えられるようにする
+    target_level = 1
+    target_records = hierarchical_label_df[hierarchical_label_df["level"] == target_level]
+    ids = target_records["id"].to_list()
+    labels = target_records["label"].to_list()
+    descriptions = target_records["description"].to_list()
+    target_records.set_index("id", inplace=True)
+
+    input_text = ""
+    for i, _ in enumerate(ids):
+        input_text += f"# Cluster {i}/{len(ids)}: {labels[i]}\n\n"
+        input_text += descriptions[i] + "\n\n"
+
+    messages = [{"role": "system", "content": prompt}, {"role": "user", "content": input_text}]
+    response_text, token_input, token_output, token_total = request_to_chat_ai(
+        messages=messages,
+        model=model,
+        provider=config["provider"],
+        local_llm_address=config.get("local_llm_address"),
+        user_api_key=os.getenv("USER_API_KEY"),
+        json_schema=OverviewResponse,
+    )
+
+    # トークン使用量を累積
+    config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+    config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+    config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+    print(f"Hierarchical overview: input={token_input}, output={token_output}, total={token_total} tokens")
+
+    try:
+        # structured outputとしてパースできるなら処理する
+        if isinstance(response_text, dict):
+            parsed_response = response_text
+        else:
+            parsed_response = json.loads(response_text)
+
+        with open(path, "w") as file:
+            file.write(parsed_response["summary"])
+
+    except Exception:
+        # thinkタグが出力されるReasoningモデル用に、thinkタグを除去する
+        thinking_removed = re.sub(
+            r"<think\b[^>]*>.*?</think>",
+            "",
+            response_text,
+            flags=re.DOTALL,
+        )
+
+        with open(path, "w") as file:
+            file.write(thinking_removed)
+1c:T3f38,"""Generate a convenient JSON output file."""
+
+import json
+from collections import defaultdict
+from pathlib import Path
+from typing import Any, TypedDict
+
+import numpy as np
+import pandas as pd
+
+ROOT_DIR = Path(__file__).parent.parent.parent.parent
+CONFIG_DIR = ROOT_DIR / "scatter" / "pipeline" / "configs"
+PIPELINE_DIR = ROOT_DIR / "broadlistening" / "pipeline"
+
+
+def json_serialize_numpy(obj: Any) -> Any:
+    """
+    Recursively convert NumPy data types to native Python types for JSON serialization.
+
+    Args:
+        obj: Any Python object which might contain NumPy data types
+
+    Returns:
+        The same object structure with NumPy types converted to Python native types
+    """
+    if isinstance(obj, np.integer):
+        return int(obj)
+    elif isinstance(obj, np.floating):
+        return float(obj)
+    elif isinstance(obj, np.ndarray):
+        return obj.tolist()
+    elif isinstance(obj, dict):
+        return {k: json_serialize_numpy(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [json_serialize_numpy(item) for item in obj]
+    elif isinstance(obj, tuple):
+        return tuple(json_serialize_numpy(item) for item in obj)
+    else:
+        return obj
+
+
+class Argument(TypedDict):
+    arg_id: str
+    argument: str
+    comment_id: str
+    x: float
+    y: float
+    p: float
+    cluster_ids: list[str]
+    attributes: dict[str, str] | None
+    url: str | None
+
+
+class Cluster(TypedDict):
+    level: int
+    id: str
+    label: str
+    takeaway: str
+    value: int
+    parent: str
+    density_rank_percentile: float | None
+
+
+def hierarchical_aggregation(config) -> bool:
+    try:
+        path = f"outputs/{config['output_dir']}/hierarchical_result.json"
+        results = {
+            "arguments": [],
+            "clusters": [],
+            "comments": {},
+            "propertyMap": {},
+            "translations": {},
+            "overview": "",
+            "config": config,
+        }
+
+        arguments = pd.read_csv(f"outputs/{config['output_dir']}/args.csv")
+        arguments.set_index("arg-id", inplace=True)
+        arg_num = len(arguments)
+        relation_df = pd.read_csv(f"outputs/{config['output_dir']}/relations.csv")
+        comments = pd.read_csv(f"inputs/{config['input']}.csv")
+        clusters = pd.read_csv(f"outputs/{config['output_dir']}/hierarchical_clusters.csv")
+        labels = pd.read_csv(f"outputs/{config['output_dir']}/hierarchical_merge_labels.csv")
+
+        hidden_properties_map: dict[str, list[str]] = config["hierarchical_aggregation"]["hidden_properties"]
+
+        results["arguments"] = _build_arguments(clusters, comments, relation_df, config)
+        results["clusters"] = _build_cluster_value(labels, arg_num)
+
+        # results["comments"] = _build_comments_value(
+        #     comments, arguments, hidden_properties_map
+        # )
+        results["comment_num"] = len(comments)
+        results["translations"] = _build_translations(config)
+        # 属性情報のカラムは、元データに対して指定したカラムとclassificationするカテゴリを合わせたもの
+        results["propertyMap"] = _build_property_map(arguments, comments, hidden_properties_map, config)
+
+        with open(f"outputs/{config['output_dir']}/hierarchical_overview.txt") as f:
+            overview = f.read()
+        print("overview")
+        print(overview)
+        results["overview"] = overview
+
+        # Convert non-serializable NumPy types to native Python types
+        results = json_serialize_numpy(results)
+
+        with open(path, "w") as file:
+            json.dump(results, file, indent=2, ensure_ascii=False)
+        # TODO: サンプリングロジックを実装したいが、現状は全件抽出
+        create_custom_intro(config)
+        if config["is_pubcom"]:
+            add_original_comments(labels, arguments, relation_df, clusters, config)
+        return True
+    except Exception as e:
+        print("error")
+        print(e)
+        return False
+
+
+def create_custom_intro(config):
+    dataset = config["output_dir"]
+    args_path = PIPELINE_DIR / f"outputs/{dataset}/args.csv"
+    comments = pd.read_csv(PIPELINE_DIR / f"inputs/{config['input']}.csv")
+    result_path = PIPELINE_DIR / f"outputs/{dataset}/hierarchical_result.json"
+
+    input_count = len(comments)
+    args_count = len(pd.read_csv(args_path))
+    processed_num = min(input_count, config["extraction"]["limit"])
+
+    print(f"Input count: {input_count}")
+    print(f"Args count: {args_count}")
+
+    # LLMプロバイダーとモデル名の判定
+    def get_llm_provider_display():
+        # configからプロバイダー情報を取得（優先）
+        provider = config.get("provider", "openai")
+        model = config.get("model", "unknown")
+
+        # プロバイダー名をマッピング
+        provider_names = {
+            "openai": "OpenAI API",
+            "azure": "Azure OpenAI API",
+            "openrouter": "OpenRouter API",
+            "local": "Local LLM",
+        }
+
+        provider_name = provider_names.get(provider, f"{provider} API")
+        return f"{provider_name} ({model})"
+
+    llm_provider = get_llm_provider_display()
+
+    base_custom_intro = """{intro}
+分析対象となったデータの件数は{processed_num}件で、これらのデータに対して{llm_provider}を用いて{args_count}件の意見（議論）を抽出し、クラスタリングを行った。
+"""
+
+    intro = config["intro"]
+    custom_intro = base_custom_intro.format(
+        intro=intro, processed_num=processed_num, args_count=args_count, llm_provider=llm_provider
+    )
+
+    with open(result_path) as f:
+        result = json.load(f)
+    result["config"]["intro"] = custom_intro
+    with open(result_path, "w") as f:
+        json.dump(result, f, indent=2, ensure_ascii=False)
+
+
+def add_original_comments(labels, arguments, relation_df, clusters, config):
+    # 大カテゴリ（cluster-level-1）に該当するラベルだけ抽出
+    labels_lv1 = labels[labels["level"] == 1][["id", "label"]].rename(
+        columns={"id": "cluster-level-1-id", "label": "category_label"}
+    )
+
+    # arguments と clusters をマージ（カテゴリ情報付与）
+    merged = arguments.merge(clusters[["arg-id", "cluster-level-1-id"]], on="arg-id").merge(
+        labels_lv1, on="cluster-level-1-id", how="left"
+    )
+
+    # relation_df と結合
+    merged = merged.merge(relation_df, on="arg-id", how="left")
+
+    # 元コメント取得
+    comments = pd.read_csv(PIPELINE_DIR / f"inputs/{config['input']}.csv")
+    comments["comment-id"] = comments["comment-id"].astype(str)
+    merged["comment-id"] = merged["comment-id"].astype(str)
+
+    # 元コメント本文などとマージ
+    final_df = merged.merge(comments, on="comment-id", how="left")
+
+    # 必要カラムのみ整形
+    final_cols = ["comment-id", "comment-body", "arg-id", "argument", "cluster-level-1-id", "category_label"]
+
+    # 基本カラム
+    for col in ["x", "y", "source", "url"]:
+        if col in comments.columns:
+            final_cols.append(col)
+
+    # 属性カラムを追加
+    attribute_columns = []
+    for col in comments.columns:
+        # attributeプレフィックスが付いたカラムを探す
+        if col.startswith("attribute_"):
+            attribute_columns.append(col)
+            final_cols.append(col)
+
+    print(f"属性カラム検出: {attribute_columns}")
+
+    # 必要なカラムだけ選択
+    final_df = final_df[final_cols]
+    final_df = final_df.rename(
+        columns={
+            "cluster-level-1-id": "category_id",
+            "category_label": "category",
+            "arg-id": "arg_id",
+            "argument": "argument",
+            "comment-body": "original-comment",
+        }
+    )
+
+    # 保存
+    final_df.to_csv(PIPELINE_DIR / f"outputs/{config['output_dir']}/final_result_with_comments.csv", index=False)
+
+
+def _build_arguments(
+    clusters: pd.DataFrame, comments: pd.DataFrame, relation_df: pd.DataFrame, config: dict
+) -> list[Argument]:
+    """
+    Build the arguments list including attribute information from original comments
+
+    Args:
+        clusters: DataFrame containing cluster information for each argument
+        comments: DataFrame containing original comments with attribute columns
+        relation_df: DataFrame relating arguments to original comments
+        config: Configuration dictionary containing enable_source_link setting
+    """
+    cluster_columns = [col for col in clusters.columns if col.startswith("cluster-level-") and "id" in col]
+
+    # Prepare for merging with original comments to get attributes
+    comments_copy = comments.copy()
+    comments_copy["comment-id"] = comments_copy["comment-id"].astype(str)
+
+    # Get argument to comment mapping
+    arg_comment_map = {}
+    if "comment-id" in relation_df.columns:
+        relation_df["comment-id"] = relation_df["comment-id"].astype(str)
+        arg_comment_map = dict(zip(relation_df["arg-id"], relation_df["comment-id"], strict=False))
+
+    # Find attribute columns in comments dataframe
+    attribute_columns = [col for col in comments.columns if col.startswith("attribute_")]
+    print(f"属性カラム検出: {attribute_columns}")
+
+    arguments: list[Argument] = []
+    for _, row in clusters.iterrows():
+        cluster_ids = ["0"]
+        for cluster_column in cluster_columns:
+            cluster_ids.append(str(row[cluster_column]))  # Convert to string to ensure serializable
+
+        # Create base argument
+        argument: Argument = {
+            "arg_id": str(row["arg-id"]),  # Convert to string to ensure serializable
+            "argument": str(row["argument"]),
+            "x": float(row["x"]),  # Convert to native float
+            "y": float(row["y"]),  # Convert to native float
+            "p": 0,  # NOTE: 一旦全部0でいれる
+            "cluster_ids": cluster_ids,
+            "attributes": None,
+            "url": None,
+        }
+
+        # Add attributes and URL if available
+        if row["arg-id"] in arg_comment_map:
+            comment_id = arg_comment_map[row["arg-id"]]
+            comment_rows = comments_copy[comments_copy["comment-id"] == comment_id]
+
+            if not comment_rows.empty:
+                comment_row = comment_rows.iloc[0]
+
+                # Add URL if available and enabled
+                if config.get("enable_source_link", False) and "url" in comment_row and comment_row["url"] is not None:
+                    argument["url"] = str(comment_row["url"])
+
+                # Add attributes if available
+                if attribute_columns:
+                    attributes = {}
+                    for attr_col in attribute_columns:
+                        # Remove "attribute_" prefix for cleaner attribute names
+                        attr_name = attr_col[len("attribute_") :]
+                        # Convert potential numpy types to Python native types
+                        attr_value = comment_row.get(attr_col, None)
+                        if attr_value is not None:
+                            if isinstance(attr_value, np.integer):
+                                attr_value = int(attr_value)
+                            elif isinstance(attr_value, np.floating):
+                                attr_value = float(attr_value)
+                            elif isinstance(attr_value, np.ndarray):
+                                attr_value = attr_value.tolist()
+                        attributes[attr_name] = attr_value
+
+                    # Only add non-empty attributes
+                    if any(v is not None for v in attributes.values()):
+                        argument["attributes"] = attributes
+
+        arguments.append(argument)
+    return arguments
+
+
+def _build_cluster_value(melted_labels: pd.DataFrame, total_num: int) -> list[Cluster]:
+    results: list[Cluster] = [
+        Cluster(
+            level=0,
+            id="0",
+            label="全体",
+            takeaway="",
+            value=int(total_num),  # Convert to native int
+            parent="",
+            density_rank_percentile=0,
+        )
+    ]
+
+    for _, melted_label in melted_labels.iterrows():
+        # Convert potential NumPy types to native Python types
+        level = (
+            int(melted_label["level"]) if isinstance(melted_label["level"], int | np.integer) else melted_label["level"]
+        )
+        cluster_id = str(melted_label["id"])
+        label = str(melted_label["label"])
+        takeaway = str(melted_label["description"])
+        value = (
+            int(melted_label["value"]) if isinstance(melted_label["value"], int | np.integer) else melted_label["value"]
+        )
+        parent = str(melted_label.get("parent", "全体"))
+
+        # Handle density_rank_percentile which might be None or a numeric value
+        density_rank = melted_label.get("density_rank_percentile")
+        if density_rank is not None:
+            if isinstance(density_rank, float | np.floating):
+                density_rank = float(density_rank)
+            elif isinstance(density_rank, int | np.integer):
+                density_rank = int(density_rank)
+
+        cluster_value = Cluster(
+            level=level,
+            id=cluster_id,
+            label=label,
+            takeaway=takeaway,
+            value=value,
+            parent=parent,
+            density_rank_percentile=density_rank,
+        )
+        results.append(cluster_value)
+    return results
+
+
+def _build_comments_value(
+    comments: pd.DataFrame,
+    arguments: pd.DataFrame,
+    hidden_properties_map: dict[str, list[str]],
+):
+    comment_dict: dict[str, dict[str, str]] = {}
+    useful_comment_ids = set(arguments["comment-id"].values)
+    for _, row in comments.iterrows():
+        id = row["comment-id"]
+        if id in useful_comment_ids:
+            res = {"comment": row["comment-body"]}
+            should_skip = any(row[prop] in hidden_values for prop, hidden_values in hidden_properties_map.items())
+            if should_skip:
+                continue
+            comment_dict[str(id)] = res
+
+    return comment_dict
+
+
+def _build_translations(config):
+    languages = list(config.get("translation", {}).get("languages", []))
+    if len(languages) > 0:
+        with open(PIPELINE_DIR / f"outputs/{config['output_dir']}/translations.json") as f:
+            translations = f.read()
+        return json.loads(translations)
+    return {}
+
+
+def _build_property_map(
+    arguments: pd.DataFrame, comments: pd.DataFrame, hidden_properties_map: dict[str, list[str]], config: dict
+) -> dict[str, dict[str, str]]:
+    property_columns = list(hidden_properties_map.keys()) + list(config["extraction"]["categories"].keys())
+    property_map = defaultdict(dict)
+
+    # 指定された property_columns が arguments に存在するかチェック
+    missing_cols = [col for col in property_columns if col not in arguments.columns]
+    if missing_cols:
+        raise ValueError(
+            f"指定されたカラム {missing_cols} が args.csv に存在しません。"
+            "設定ファイルaggregation / hidden_propertiesから該当カラムを取り除いてください。"
+        )
+
+    for prop in property_columns:
+        for arg_id, row in arguments.iterrows():
+            # LLMによるcategory classificationがうまく行かず、NaNの場合はNoneにする
+            value = row[prop] if not pd.isna(row[prop]) else None
+
+            # Convert NumPy types to Python native types
+            if value is not None:
+                if isinstance(value, np.integer):
+                    value = int(value)
+                elif isinstance(value, np.floating):
+                    value = float(value)
+                elif isinstance(value, np.ndarray):
+                    value = value.tolist()
+                else:
+                    # Convert any other types to string to ensure serialization
+                    try:
+                        value = str(value)
+                    except Exception as e:
+                        print(f"Error converting value to string: {e}")
+                        value = None
+
+            # Make sure arg_id is string
+            str_arg_id = str(arg_id)
+            property_map[prop][str_arg_id] = value
+
+    return property_map
+1d:T458,import os
+
+import pandas as pd
+from tqdm import tqdm
+
+from services.llm import request_to_embed
+
+
+def embedding(config):
+    model = config["embedding"]["model"]
+    is_embedded_at_local = config["is_embedded_at_local"]
+    # print("start embedding")
+    # print(f"embedding model: {model}, is_embedded_at_local: {is_embedded_at_local}")
+
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/embeddings.pkl"
+    arguments = pd.read_csv(f"outputs/{dataset}/args.csv", usecols=["arg-id", "argument"])
+    embeddings = []
+    batch_size = 1000
+    for i in tqdm(range(0, len(arguments), batch_size)):
+        args = arguments["argument"].tolist()[i : i + batch_size]
+        embeds = request_to_embed(
+            args,
+            model,
+            is_embedded_at_local,
+            config["provider"],
+            local_llm_address=config.get("local_llm_address"),
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+        embeddings.extend(embeds)
+    df = pd.DataFrame([{"arg-id": arguments.iloc[i]["arg-id"], "embedding": e} for i, e in enumerate(embeddings)])
+    df.to_pickle(path)
+1e:T194c,import concurrent.futures
+import json
+import logging
+import os
+import re
+
+import pandas as pd
+from pydantic import BaseModel, Field
+from tqdm import tqdm
+
+from services.llm import request_to_chat_ai
+from services.parse_json_list import parse_extraction_response
+from utils import update_progress
+
+COMMA_AND_SPACE_AND_RIGHT_BRACKET = re.compile(r",\s*(\])")
+
+
+class ExtractionResponse(BaseModel):
+    extractedOpinionList: list[str] = Field(..., description="抽出した意見のリスト")
+
+
+def _validate_property_columns(property_columns: list[str], comments: pd.DataFrame) -> None:
+    if not all(property in comments.columns for property in property_columns):
+        raise ValueError(f"Properties {property_columns} not found in comments. Columns are {comments.columns}")
+
+
+def extraction(config):
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/args.csv"
+    model = config["extraction"]["model"]
+    prompt = config["extraction"]["prompt"]
+    workers = config["extraction"]["workers"]
+    limit = config["extraction"]["limit"]
+    property_columns = config["extraction"]["properties"]
+
+    if "provider" not in config:
+        raise RuntimeError("provider is not set")
+    provider = config["provider"]
+
+    # カラム名だけを読み込み、必要なカラムが含まれているか確認する
+    comments = pd.read_csv(f"inputs/{config['input']}.csv", nrows=0)
+    _validate_property_columns(property_columns, comments)
+    # エラーが出なかった場合、すべての行を読み込む
+    comments = pd.read_csv(
+        f"inputs/{config['input']}.csv", usecols=["comment-id", "comment-body"] + config["extraction"]["properties"]
+    )
+    comment_ids = (comments["comment-id"].values)[:limit]
+    comments.set_index("comment-id", inplace=True)
+    results = pd.DataFrame()
+    update_progress(config, total=len(comment_ids))
+
+    argument_map = {}
+    relation_rows = []
+
+    for i in tqdm(range(0, len(comment_ids), workers)):
+        batch = comment_ids[i : i + workers]
+        batch_inputs = [comments.loc[id]["comment-body"] for id in batch]
+        batch_results = extract_batch(
+            batch_inputs, prompt, model, workers, provider, config.get("local_llm_address"), config
+        )
+
+        for comment_id, extracted_args in zip(batch, batch_results, strict=False):
+            for j, arg in enumerate(extracted_args):
+                if arg not in argument_map:
+                    # argumentテーブルに追加
+                    arg_id = f"A{comment_id}_{j}"
+                    argument = arg
+                    argument_map[arg] = {
+                        "arg-id": arg_id,
+                        "argument": argument,
+                    }
+                else:
+                    arg_id = argument_map[arg]["arg-id"]
+
+                # relationテーブルにcommentとargの関係を追加
+                relation_row = {
+                    "arg-id": arg_id,
+                    "comment-id": comment_id,
+                }
+                relation_rows.append(relation_row)
+
+        update_progress(config, incr=len(batch))
+
+    # DataFrame化
+    results = pd.DataFrame(argument_map.values())
+    relation_df = pd.DataFrame(relation_rows)
+
+    if results.empty:
+        raise RuntimeError("result is empty, maybe bad prompt")
+
+    results.to_csv(path, index=False)
+    # comment-idとarg-idの関係を保存
+    relation_df.to_csv(f"outputs/{dataset}/relations.csv", index=False)
+
+
+logging.basicConfig(level=logging.DEBUG)
+
+
+def extract_batch(batch, prompt, model, workers, provider="openai", local_llm_address=None, config=None):
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+        futures_with_index = [
+            (i, executor.submit(extract_arguments, input, prompt, model, provider, local_llm_address))
+            for i, input in enumerate(batch)
+        ]
+
+        done, not_done = concurrent.futures.wait([f for _, f in futures_with_index], timeout=30)
+        results = [[] for _ in range(len(batch))]
+        total_token_input = 0
+        total_token_output = 0
+        total_token_usage = 0
+
+        for _, future in futures_with_index:
+            if future in not_done and not future.cancelled():
+                future.cancel()
+
+        for i, future in futures_with_index:
+            if future in done:
+                try:
+                    result = future.result()
+                    if isinstance(result, tuple) and len(result) == 4:
+                        items, token_input, token_output, token_total = result
+                        results[i] = items
+                        total_token_input += token_input
+                        total_token_output += token_output
+                        total_token_usage += token_total
+                    else:
+                        results[i] = result
+                except Exception as e:
+                    logging.error(f"Task {future} failed with error: {e}")
+                    results[i] = []
+
+        if config is not None:
+            config["total_token_usage"] = config.get("total_token_usage", 0) + total_token_usage
+            config["token_usage_input"] = config.get("token_usage_input", 0) + total_token_input
+            config["token_usage_output"] = config.get("token_usage_output", 0) + total_token_output
+            print(
+                f"Extraction batch: input={total_token_input}, output={total_token_output}, total={total_token_usage} tokens"
+            )
+
+        return results
+
+
+def extract_arguments(input, prompt, model, provider="openai", local_llm_address=None):
+    messages = [
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": input},
+    ]
+    try:
+        response, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=model,
+            is_json=False,
+            json_schema=ExtractionResponse,
+            provider=provider,
+            local_llm_address=local_llm_address,
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+        items = parse_extraction_response(response)
+        items = list(filter(None, items))  # omit empty strings
+        return items, token_input, token_output, token_total
+    except json.decoder.JSONDecodeError as e:
+        print("JSON error:", e)
+        print("Input was:", input)
+        print("Response was:", response)
+        print("Silently giving up on trying to generate valid list.")
+        return []
+1f:T458,import os
+
+import pandas as pd
+from tqdm import tqdm
+
+from services.llm import request_to_embed
+
+
+def embedding(config):
+    model = config["embedding"]["model"]
+    is_embedded_at_local = config["is_embedded_at_local"]
+    # print("start embedding")
+    # print(f"embedding model: {model}, is_embedded_at_local: {is_embedded_at_local}")
+
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/embeddings.pkl"
+    arguments = pd.read_csv(f"outputs/{dataset}/args.csv", usecols=["arg-id", "argument"])
+    embeddings = []
+    batch_size = 1000
+    for i in tqdm(range(0, len(arguments), batch_size)):
+        args = arguments["argument"].tolist()[i : i + batch_size]
+        embeds = request_to_embed(
+            args,
+            model,
+            is_embedded_at_local,
+            config["provider"],
+            local_llm_address=config.get("local_llm_address"),
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+        embeddings.extend(embeds)
+    df = pd.DataFrame([{"arg-id": arguments.iloc[i]["arg-id"], "embedding": e} for i, e in enumerate(embeddings)])
+    df.to_pickle(path)
+20:T1149,"""Cluster the arguments using UMAP + HDBSCAN and GPT-4."""
+
+from importlib import import_module
+
+import numpy as np
+import pandas as pd
+import scipy.cluster.hierarchy as sch
+from sklearn.cluster import KMeans
+
+
+def hierarchical_clustering(config):
+    UMAP = import_module("umap").UMAP
+
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_clusters.csv"
+    arguments_df = pd.read_csv(f"outputs/{dataset}/args.csv", usecols=["arg-id", "argument"])
+    embeddings_df = pd.read_pickle(f"outputs/{dataset}/embeddings.pkl")
+    embeddings_array = np.asarray(embeddings_df["embedding"].values.tolist())
+    cluster_nums = config["hierarchical_clustering"]["cluster_nums"]
+
+    n_samples = embeddings_array.shape[0]
+    # デフォルト設定は15
+    default_n_neighbors = 15
+
+    # テスト等サンプルが少なすぎる場合、n_neighborsの設定値を下げる
+    if n_samples <= default_n_neighbors:
+        n_neighbors = max(2, n_samples - 1)  # 最低2以上
+    else:
+        n_neighbors = default_n_neighbors
+
+    umap_model = UMAP(random_state=42, n_components=2, n_neighbors=n_neighbors)
+    # TODO 詳細エラーメッセージを加える
+    # 以下のエラーの場合、おそらく元の意見件数が少なすぎることが原因
+    # TypeError: Cannot use scipy.linalg.eigh for sparse A with k >= N. Use scipy.linalg.eigh(A.toarray()) or reduce k.
+    umap_embeds = umap_model.fit_transform(embeddings_array)
+
+    cluster_results = hierarchical_clustering_embeddings(
+        umap_embeds=umap_embeds,
+        cluster_nums=cluster_nums,
+    )
+    result_df = pd.DataFrame(
+        {
+            "arg-id": arguments_df["arg-id"],
+            "argument": arguments_df["argument"],
+            "x": umap_embeds[:, 0],
+            "y": umap_embeds[:, 1],
+        }
+    )
+
+    for cluster_level, final_labels in enumerate(cluster_results.values(), start=1):
+        result_df[f"cluster-level-{cluster_level}-id"] = [f"{cluster_level}_{label}" for label in final_labels]
+
+    result_df.to_csv(path, index=False)
+
+
+def generate_cluster_count_list(min_clusters: int, max_clusters: int):
+    cluster_counts = []
+    current = min_clusters
+    cluster_counts.append(current)
+
+    if min_clusters == max_clusters:
+        return cluster_counts
+
+    while True:
+        next_double = current * 2
+        next_triple = current * 3
+
+        if next_double >= max_clusters:
+            if cluster_counts[-1] != max_clusters:
+                cluster_counts.append(max_clusters)
+            break
+
+        # 次の倍はまだ max_clusters に収まるが、3倍だと超える
+        # -> (次の倍は細かすぎるので)スキップして max_clusters に飛ぶ
+        if next_triple > max_clusters:
+            cluster_counts.append(max_clusters)
+            break
+
+        cluster_counts.append(next_double)
+        current = next_double
+
+    return cluster_counts
+
+
+def merge_clusters_with_hierarchy(
+    cluster_centers: np.ndarray,
+    kmeans_labels: np.ndarray,
+    umap_array: np.ndarray,
+    n_cluster_cut: int,
+):
+    Z = sch.linkage(cluster_centers, method="ward")
+    cluster_labels_merged = sch.fcluster(Z, t=n_cluster_cut, criterion="maxclust")
+
+    n_samples = umap_array.shape[0]
+    final_labels = np.zeros(n_samples, dtype=int)
+
+    for i in range(n_samples):
+        original_label = kmeans_labels[i]
+        final_labels[i] = cluster_labels_merged[original_label]
+
+    return final_labels
+
+
+def hierarchical_clustering_embeddings(
+    umap_embeds,
+    cluster_nums,
+):
+    # 最大分割数でクラスタリングを実施
+    print("start initial clustering")
+    initial_cluster_num = cluster_nums[-1]
+    kmeans_model = KMeans(n_clusters=initial_cluster_num, random_state=42)
+    kmeans_model.fit(umap_embeds)
+    print("end initial clustering")
+
+    results = {}
+    print("start hierarchical clustering")
+    cluster_nums.sort()
+    print(cluster_nums)
+    for n_cluster_cut in cluster_nums[:-1]:
+        print("n_cluster_cut: ", n_cluster_cut)
+        final_labels = merge_clusters_with_hierarchy(
+            cluster_centers=kmeans_model.cluster_centers_,
+            kmeans_labels=kmeans_model.labels_,
+            umap_array=umap_embeds,
+            n_cluster_cut=n_cluster_cut,
+        )
+        results[n_cluster_cut] = final_labels
+
+    results[initial_cluster_num] = kmeans_model.labels_
+    print("end hierarchical clustering")
+
+    return results
+21:T1c36,import json
+import os
+from concurrent.futures import ThreadPoolExecutor
+from functools import partial
+from typing import TypedDict
+
+import pandas as pd
+from pydantic import BaseModel, Field
+
+from services.llm import request_to_chat_ai
+
+
+class LabellingResult(TypedDict):
+    """各クラスタのラベリング結果を表す型"""
+
+    cluster_id: str  # クラスタのID
+    label: str  # クラスタのラベル名
+    description: str  # クラスタの説明文
+
+
+def hierarchical_initial_labelling(config: dict) -> None:
+    """階層的クラスタリングの初期ラベリングを実行する
+
+    Args:
+        config: 設定情報を含む辞書
+            - output_dir: 出力ディレクトリ名
+            - hierarchical_initial_labelling: 初期ラベリングの設定
+                - sampling_num: サンプリング数
+                - prompt: LLMへのプロンプト
+                - model: 使用するLLMモデル名
+                - workers: 並列処理のワーカー数
+            - provider: LLMプロバイダー
+    """
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_initial_labels.csv"
+    clusters_argument_df = pd.read_csv(f"outputs/{dataset}/hierarchical_clusters.csv")
+
+    cluster_id_columns = [col for col in clusters_argument_df.columns if col.startswith("cluster-level-")]
+    initial_cluster_id_column = cluster_id_columns[-1]
+    sampling_num = config["hierarchical_initial_labelling"]["sampling_num"]
+    initial_labelling_prompt = config["hierarchical_initial_labelling"]["prompt"]
+    model = config["hierarchical_initial_labelling"]["model"]
+    workers = config["hierarchical_initial_labelling"]["workers"]
+
+    # トークン使用量を追跡するための変数を初期化
+    config["total_token_usage"] = config.get("total_token_usage", 0)
+
+    initial_label_df = initial_labelling(
+        initial_labelling_prompt,
+        clusters_argument_df,
+        sampling_num,
+        model,
+        workers,
+        config["provider"],
+        config.get("local_llm_address"),
+        config,  # configを渡して、トークン使用量を累積できるようにする
+    )
+    print("start initial labelling")
+    initial_clusters_argument_df = clusters_argument_df.merge(
+        initial_label_df,
+        left_on=initial_cluster_id_column,
+        right_on="cluster_id",
+        how="left",
+    ).rename(
+        columns={
+            "label": f"{initial_cluster_id_column.replace('-id', '')}-label",
+            "description": f"{initial_cluster_id_column.replace('-id', '')}-description",
+        }
+    )
+    print("end initial labelling")
+    initial_clusters_argument_df.to_csv(path, index=False)
+
+
+def initial_labelling(
+    prompt: str,
+    clusters_df: pd.DataFrame,
+    sampling_num: int,
+    model: str,
+    workers: int,
+    provider: str = "openai",
+    local_llm_address: str | None = None,
+    config: dict | None = None,  # configを追加
+) -> pd.DataFrame:
+    """各クラスタに対して初期ラベリングを実行する
+
+    Args:
+        prompt: LLMへのプロンプト
+        clusters_df: クラスタリング結果のDataFrame
+        sampling_num: 各クラスタからサンプリングする意見の数
+        model: 使用するLLMモデル名
+        workers: 並列処理のワーカー数
+        provider: LLMプロバイダー
+        local_llm_address: ローカルLLMのアドレス
+        config: 設定情報を含む辞書（トークン使用量の累積に使用）
+
+    Returns:
+        各クラスタのラベリング結果を含むDataFrame
+    """
+    cluster_columns = [col for col in clusters_df.columns if col.startswith("cluster-level-")]
+    initial_cluster_column = cluster_columns[-1]
+    cluster_ids = clusters_df[initial_cluster_column].unique()
+    process_func = partial(
+        process_initial_labelling,
+        df=clusters_df,
+        prompt=prompt,
+        sampling_num=sampling_num,
+        target_column=initial_cluster_column,
+        model=model,
+        provider=provider,
+        local_llm_address=local_llm_address,
+        config=config,  # configを渡す
+    )
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        results = list(executor.map(process_func, cluster_ids))
+    return pd.DataFrame(results)
+
+
+class LabellingFromat(BaseModel):
+    """ラベリング結果のフォーマットを定義する"""
+
+    label: str = Field(..., description="クラスタのラベル名")
+    description: str = Field(..., description="クラスタの説明文")
+
+
+def process_initial_labelling(
+    cluster_id: str,
+    df: pd.DataFrame,
+    prompt: str,
+    sampling_num: int,
+    target_column: str,
+    model: str,
+    provider: str = "openai",
+    local_llm_address: str | None = None,
+    config: dict | None = None,  # configを追加
+) -> LabellingResult:
+    """個別のクラスタに対してラベリングを実行する
+
+    Args:
+        cluster_id: 処理対象のクラスタID
+        df: クラスタリング結果のDataFrame
+        prompt: LLMへのプロンプト
+        sampling_num: サンプリングする意見の数
+        target_column: クラスタIDが格納されている列名
+        model: 使用するLLMモデル名
+        provider: LLMプロバイダー
+        local_llm_address: ローカルLLMのアドレス
+        config: 設定情報を含む辞書（トークン使用量の累積に使用）
+
+    Returns:
+        クラスタのラベリング結果
+    """
+    cluster_data = df[df[target_column] == cluster_id]
+    sampling_num = min(sampling_num, len(cluster_data))
+    cluster = cluster_data.sample(sampling_num)
+    input = "\n".join(cluster["argument"].values)
+    messages = [
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": input},
+    ]
+    try:
+        response_text, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=model,
+            provider=provider,
+            json_schema=LabellingFromat,
+            local_llm_address=local_llm_address,
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+
+        # トークン使用量を累積（configが渡されている場合）
+        if config is not None:
+            config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+            config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+            config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+
+        response_json = json.loads(response_text) if isinstance(response_text, str) else response_text
+        return LabellingResult(
+            cluster_id=cluster_id,
+            label=response_json.get("label", "エラーでラベル名が取得できませんでした"),
+            description=response_json.get("description", "エラーで解説が取得できませんでした"),
+        )
+    except Exception as e:
+        print(e)
+        return LabellingResult(
+            cluster_id=cluster_id,
+            label="エラーでラベル名が取得できませんでした",
+            description="エラーで解説が取得できませんでした",
+        )
+22:T337b,import json
+import os
+from concurrent.futures import ThreadPoolExecutor
+from dataclasses import dataclass
+from functools import partial
+
+import numpy as np
+import pandas as pd
+from pydantic import BaseModel, Field
+from tqdm import tqdm
+
+from services.llm import request_to_chat_ai
+
+
+@dataclass
+class ClusterColumns:
+    """同一階層のクラスター関連のカラム名を管理するクラス"""
+
+    id: str
+    label: str
+    description: str
+
+    @classmethod
+    def from_id_column(cls, id_column: str) -> "ClusterColumns":
+        """ID列名から関連するカラム名を生成"""
+        return cls(
+            id=id_column,
+            label=id_column.replace("-id", "-label"),
+            description=id_column.replace("-id", "-description"),
+        )
+
+
+@dataclass
+class ClusterValues:
+    """対象クラスタのlabel/descriptionを管理するクラス"""
+
+    label: str
+    description: str
+
+    def to_prompt_text(self) -> str:
+        return f"- {self.label}: {self.description}"
+
+
+def hierarchical_merge_labelling(config: dict) -> None:
+    """階層的クラスタリングの結果に対してマージラベリングを実行する
+
+    Args:
+        config: 設定情報を含む辞書
+            - output_dir: 出力ディレクトリ名
+            - hierarchical_merge_labelling: マージラベリングの設定
+                - sampling_num: サンプリング数
+                - prompt: LLMへのプロンプト
+                - model: 使用するLLMモデル名
+                - workers: 並列処理のワーカー数
+            - provider: LLMプロバイダー
+    """
+    dataset = config["output_dir"]
+    merge_path = f"outputs/{dataset}/hierarchical_merge_labels.csv"
+    clusters_df = pd.read_csv(f"outputs/{dataset}/hierarchical_initial_labels.csv")
+
+    cluster_id_columns: list[str] = _filter_id_columns(clusters_df.columns)
+    # ボトムクラスタのラベル・説明とクラスタid付きの各argumentを入力し、各階層のクラスタラベル・説明を生成し、argumentに付けたdfを作成
+    merge_result_df = merge_labelling(
+        clusters_df=clusters_df,
+        cluster_id_columns=sorted(cluster_id_columns, reverse=True),
+        config=config,
+    )
+    # 上記のdfから各クラスタのlevel, id, label, description, valueを取得してdfを作成
+    melted_df = melt_cluster_data(merge_result_df)
+    # 上記のdfに親子関係を追加
+    parent_child_df = _build_parent_child_mapping(merge_result_df, cluster_id_columns)
+    melted_df = melted_df.merge(parent_child_df, on=["level", "id"], how="left")
+    density_df = calculate_cluster_density(melted_df, config)
+    density_df.to_csv(merge_path, index=False)
+
+
+def _build_parent_child_mapping(df: pd.DataFrame, cluster_id_columns: list[str]):
+    """クラスタ間の親子関係をマッピングする
+
+    Args:
+        df: クラスタリング結果のDataFrame
+        cluster_id_columns: クラスタIDのカラム名のリスト
+
+    Returns:
+        親子関係のマッピング情報を含むDataFrame
+    """
+    results = []
+    top_cluster_column = cluster_id_columns[0]
+    top_cluster_values = df[top_cluster_column].unique()
+    for c in top_cluster_values:
+        results.append(
+            {
+                "level": 1,
+                "id": c,
+                "parent": "0",  # aggregationで追加する全体クラスタのid
+            }
+        )
+
+    for idx in range(len(cluster_id_columns) - 1):
+        current_column = cluster_id_columns[idx]
+        children_column = cluster_id_columns[idx + 1]
+        current_level = current_column.replace("-id", "").replace("cluster-level-", "")
+        # 現在のレベルのクラスタid
+        current_cluster_values = df[current_column].unique()
+        for current_id in current_cluster_values:
+            children_ids = df.loc[df[current_column] == current_id, children_column].unique()
+            for child_id in children_ids:
+                results.append(
+                    {
+                        "level": int(current_level) + 1,
+                        "id": child_id,
+                        "parent": current_id,
+                    }
+                )
+    return pd.DataFrame(results)
+
+
+def _filter_id_columns(columns: list[str]) -> list[str]:
+    """クラスタIDのカラム名をフィルタリングする
+
+    Args:
+        columns: 全カラム名のリスト
+
+    Returns:
+        クラスタIDのカラム名のリスト
+    """
+    return [col for col in columns if col.startswith("cluster-level-") and col.endswith("-id")]
+
+
+def melt_cluster_data(df: pd.DataFrame) -> pd.DataFrame:
+    """クラスタデータを行形式に変換する
+
+    cluster-level-n-(id|label|description) を行形式 (level, id, label, description, value) にまとめる。
+    [cluster-level-n-id, cluster-level-n-label, cluster-level-n-description] を [level, id, label, description, value(件数)] に変換する。
+
+    Args:
+        df: クラスタリング結果のDataFrame
+
+    Returns:
+        行形式に変換されたDataFrame
+    """
+    id_columns: list[str] = _filter_id_columns(df.columns)
+    levels: set[int] = {int(col.replace("cluster-level-", "").replace("-id", "")) for col in id_columns}
+    all_rows: list[dict] = []
+
+    # levelごとに各クラスタの出現件数を集計・縦持ちにする
+    for level in levels:
+        cluster_columns = ClusterColumns.from_id_column(f"cluster-level-{level}-id")
+        # クラスタidごとの件数集計
+        level_count_df = df.groupby(cluster_columns.id).size().reset_index(name="value")
+
+        level_unique_val_df = df[
+            [cluster_columns.id, cluster_columns.label, cluster_columns.description]
+        ].drop_duplicates()
+        level_unique_val_df = level_unique_val_df.merge(level_count_df, on=cluster_columns.id, how="left")
+        level_unique_vals = [
+            {
+                "level": level,
+                "id": row[cluster_columns.id],
+                "label": row[cluster_columns.label],
+                "description": row[cluster_columns.description],
+                "value": row["value"],
+            }
+            for _, row in level_unique_val_df.iterrows()
+        ]
+        all_rows.extend(level_unique_vals)
+    return pd.DataFrame(all_rows)
+
+
+def merge_labelling(clusters_df: pd.DataFrame, cluster_id_columns: list[str], config) -> pd.DataFrame:
+    """階層的なクラスタのマージラベリングを実行する
+
+    Args:
+        clusters_df: クラスタリング結果のDataFrame
+        cluster_id_columns: クラスタIDのカラム名のリスト
+        config: 設定情報を含む辞書
+
+    Returns:
+        マージラベリング結果を含むDataFrame
+    """
+    for idx in tqdm(range(len(cluster_id_columns) - 1)):
+        previous_columns = ClusterColumns.from_id_column(cluster_id_columns[idx])
+        current_columns = ClusterColumns.from_id_column(cluster_id_columns[idx + 1])
+
+        process_fn = partial(
+            process_merge_labelling,
+            result_df=clusters_df,
+            current_columns=current_columns,
+            previous_columns=previous_columns,
+            config=config,
+        )
+
+        current_cluster_ids = sorted(clusters_df[current_columns.id].unique())
+        with ThreadPoolExecutor(max_workers=config["hierarchical_merge_labelling"]["workers"]) as executor:
+            responses = list(
+                tqdm(
+                    executor.map(process_fn, current_cluster_ids),
+                    total=len(current_cluster_ids),
+                )
+            )
+
+        current_result_df = pd.DataFrame(responses)
+        clusters_df = clusters_df.merge(current_result_df, on=[current_columns.id])
+    return clusters_df
+
+
+class LabellingFromat(BaseModel):
+    """ラベリング結果のフォーマットを定義する"""
+
+    label: str = Field(..., description="クラスタのラベル名")
+    description: str = Field(..., description="クラスタの説明文")
+
+
+def process_merge_labelling(
+    target_cluster_id: str,
+    result_df: pd.DataFrame,
+    current_columns: ClusterColumns,
+    previous_columns: ClusterColumns,
+    config,
+):
+    """個別のクラスタに対してマージラベリングを実行する
+
+    Args:
+        target_cluster_id: 処理対象のクラスタID
+        result_df: クラスタリング結果のDataFrame
+        current_columns: 現在のレベルのカラム情報
+        previous_columns: 前のレベルのカラム情報
+        config: 設定情報を含む辞書
+
+    Returns:
+        マージラベリング結果を含む辞書
+    """
+
+    def filter_previous_values(df: pd.DataFrame, previous_columns: ClusterColumns) -> list[ClusterValues]:
+        """前のレベルのクラスタ情報を取得する"""
+        previous_records = df[df[current_columns.id] == target_cluster_id][
+            [previous_columns.label, previous_columns.description]
+        ].drop_duplicates()
+        previous_values = [
+            ClusterValues(
+                label=row[previous_columns.label],
+                description=row[previous_columns.description],
+            )
+            for _, row in previous_records.iterrows()
+        ]
+        return previous_values
+
+    previous_values = filter_previous_values(result_df, previous_columns)
+    if len(previous_values) == 1:
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: previous_values[0].label,
+            current_columns.description: previous_values[0].description,
+        }
+    elif len(previous_values) == 0:
+        raise ValueError(f"クラスタ {target_cluster_id} には前のレベルのクラスタが存在しません。")
+
+    current_cluster_data = result_df[result_df[current_columns.id] == target_cluster_id]
+    sampling_num = min(
+        config["hierarchical_merge_labelling"]["sampling_num"],
+        len(current_cluster_data),
+    )
+    sampled_data = current_cluster_data.sample(sampling_num)
+    sampled_argument_text = "\n".join(sampled_data["argument"].values)
+    cluster_text = "\n".join([value.to_prompt_text() for value in previous_values])
+    messages = [
+        {"role": "system", "content": config["hierarchical_merge_labelling"]["prompt"]},
+        {
+            "role": "user",
+            "content": "クラスタラベル\n" + cluster_text + "\n" + "クラスタの意見\n" + sampled_argument_text,
+        },
+    ]
+    try:
+        response_text, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=config["hierarchical_merge_labelling"]["model"],
+            json_schema=LabellingFromat,
+            provider=config["provider"],
+            local_llm_address=config.get("local_llm_address"),
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+
+        config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+        config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+        config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+        print(f"Merge labelling: input={token_input}, output={token_output}, total={token_total} tokens")
+
+        response_json = json.loads(response_text) if isinstance(response_text, str) else response_text
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: response_json.get("label", "エラーでラベル名が取得できませんでした"),
+            current_columns.description: response_json.get("description", "エラーで解説が取得できませんでした"),
+        }
+    except Exception as e:
+        print(f"エラーが発生しました: {e}")
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: "エラーでラベル名が取得できませんでした",
+            current_columns.description: "エラーで解説が取得できませんでした",
+        }
+
+
+def calculate_cluster_density(melted_df: pd.DataFrame, config: dict):
+    """クラスタ内の密度計算"""
+    hierarchical_cluster_df = pd.read_csv(f"outputs/{config['output_dir']}/hierarchical_clusters.csv")
+
+    densities = []
+    for level, c_id in zip(melted_df["level"], melted_df["id"], strict=False):
+        cluster_embeds = hierarchical_cluster_df[hierarchical_cluster_df[f"cluster-level-{level}-id"] == c_id][
+            ["x", "y"]
+        ].values
+        density = calculate_density(cluster_embeds)
+        densities.append(density)
+
+    # 密度のランクを計算
+    melted_df["density"] = densities
+    melted_df["density_rank"] = melted_df.groupby("level")["density"].rank(ascending=False, method="first")
+    melted_df["density_rank_percentile"] = melted_df.groupby("level")["density_rank"].transform(lambda x: x / len(x))
+    return melted_df
+
+
+def calculate_density(embeds: np.ndarray):
+    """平均距離に基づいて密度を計算"""
+    center = np.mean(embeds, axis=0)
+    distances = np.linalg.norm(embeds - center, axis=1)
+    avg_distance = np.mean(distances)
+    density = 1 / (avg_distance + 1e-10)
+    return density
+23:Ta82,"""Create summaries for the clusters."""
+
+import json
+import os
+import re
+
+import pandas as pd
+from pydantic import BaseModel, Field
+
+from services.llm import request_to_chat_ai
+
+
+class OverviewResponse(BaseModel):
+    summary: str = Field(..., description="クラスターの全体的な要約")
+
+
+def hierarchical_overview(config):
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_overview.txt"
+
+    hierarchical_label_df = pd.read_csv(f"outputs/{dataset}/hierarchical_merge_labels.csv")
+
+    prompt = config["hierarchical_overview"]["prompt"]
+    model = config["hierarchical_overview"]["model"]
+
+    # TODO: level1で固定にしているが、設定で変えられるようにする
+    target_level = 1
+    target_records = hierarchical_label_df[hierarchical_label_df["level"] == target_level]
+    ids = target_records["id"].to_list()
+    labels = target_records["label"].to_list()
+    descriptions = target_records["description"].to_list()
+    target_records.set_index("id", inplace=True)
+
+    input_text = ""
+    for i, _ in enumerate(ids):
+        input_text += f"# Cluster {i}/{len(ids)}: {labels[i]}\n\n"
+        input_text += descriptions[i] + "\n\n"
+
+    messages = [{"role": "system", "content": prompt}, {"role": "user", "content": input_text}]
+    response_text, token_input, token_output, token_total = request_to_chat_ai(
+        messages=messages,
+        model=model,
+        provider=config["provider"],
+        local_llm_address=config.get("local_llm_address"),
+        user_api_key=os.getenv("USER_API_KEY"),
+        json_schema=OverviewResponse,
+    )
+
+    # トークン使用量を累積
+    config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+    config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+    config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+    print(f"Hierarchical overview: input={token_input}, output={token_output}, total={token_total} tokens")
+
+    try:
+        # structured outputとしてパースできるなら処理する
+        if isinstance(response_text, dict):
+            parsed_response = response_text
+        else:
+            parsed_response = json.loads(response_text)
+
+        with open(path, "w") as file:
+            file.write(parsed_response["summary"])
+
+    except Exception:
+        # thinkタグが出力されるReasoningモデル用に、thinkタグを除去する
+        thinking_removed = re.sub(
+            r"<think\b[^>]*>.*?</think>",
+            "",
+            response_text,
+            flags=re.DOTALL,
+        )
+
+        with open(path, "w") as file:
+            file.write(thinking_removed)
+8:[["$","$L11",null,{}],["$","$L12",null,{"className":"container","mt":"8","children":[["$","$L12",null,{"mx":"auto","maxW":"750px","mb":8,"children":[["$","$L13",null,{"textAlign":"left","fontSize":"xl","mb":5,"children":"レポート"}],["$","$L13",null,{"as":"h2","size":"4xl","mb":2,"className":"headingColor","children":"災害時に地域や周囲の人とどのように助け合えると良いと思いますか？"}],["$","$L14",null,{"fontWeight":"bold","fontSize":"xl","mb":2,"children":[["$","$L15",null,{"mr":1,"children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-messages-square","children":[["$","path","p1xzt8",{"d":"M14 9a2 2 0 0 1-2 2H6l-4 4V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2z"}],["$","path","1cx29u",{"d":"M18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1"}],"$undefined"]}]}],"214","件"]}],["$","p",null,{"children":"地域コミュニティの絆を深め、災害時の相互支援を強化することが重要視されています。住民同士のつながりを育むための交流イベントや情報共有が求められ、特に防災訓練や近所付き合いの促進が強調されています。また、高齢者との日常的な交流が地域の活性化に寄与することが指摘されています。これらの取り組みを通じて、安心で助け合う地域社会の実現が期待されています。"}]]}],["$","$L16",null,{"result":{"arguments":[{"arg_id":"Acsv-1_0","argument":"困難に立ち向かうためには励ましと協力が必要である。","x":7.149908,"y":6.639616,"p":0,"cluster_ids":["0","1_2","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-1_1","argument":"増えつつある単身世帯を繋ぐために、企業と地域の連携を区民レベルで行うべきである。","x":8.415765,"y":11.353828,"p":0,"cluster_ids":["0","1_3","2_16"],"attributes":null,"url":null},{"arg_id":"Acsv-2_0","argument":"図書館は地域の繋がりに貢献できるのではないか。","x":8.127792,"y":11.151562,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-2_1","argument":"在宅勤務が増える中で、図書館を利用して地域のスペースで働く人が増えている。","x":8.04391,"y":11.153011,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-2_2","argument":"品川区の図書館は使い勝手が良くないため、区外に行く働き手を区内に留めるための施策が必要。","x":7.9156446,"y":11.151704,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-2_3","argument":"地域の施設を利用し、地域の情報を得る機会を増やすことが望ましい。","x":8.548133,"y":10.75276,"p":0,"cluster_ids":["0","1_3","2_16"],"attributes":null,"url":null},{"arg_id":"Acsv-3_0","argument":"災害時には地域の人と顔見知りになることが大切である","x":5.6513195,"y":7.9606614,"p":0,"cluster_ids":["0","1_2","2_22"],"attributes":null,"url":null},{"arg_id":"Acsv-3_1","argument":"町内会の活動に積極的に参加することが重要である","x":7.235102,"y":11.066552,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-3_2","argument":"品川区の町内会が活発に活動していることに驚いた","x":7.362514,"y":11.20247,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-3_3","argument":"町内会の文化が災害時の助け合いに役立つと思う","x":6.687013,"y":10.491814,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-4_0","argument":"災害時に障がい児者や医療的ケアが必要な人、その家族が安心できる地域であるべき","x":5.7972918,"y":8.049825,"p":0,"cluster_ids":["0","1_2","2_22"],"attributes":null,"url":null},{"arg_id":"Acsv-4_1","argument":"普段から支え合い、必要なサポートを事前に分かち合えるつながりや仕組み作りが大切","x":7.5626154,"y":6.959185,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-4_2","argument":"誰も取り残されない「しあわせ多彩区・品川」を目指すべき","x":7.689525,"y":11.21619,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-5_0","argument":"防災訓練に参加したが、町内会単位でのレクチャーで単独参加者は扱いが悪かったのが残念だった。","x":4.847038,"y":10.21997,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-5_1","argument":"住んでいるマンションが町内会に加入していないため、近隣の町内会に入れてもらえるか不安である。","x":7.448,"y":10.642203,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-5_2","argument":"町内会のない場所に住んでいても支援を受けられるのか不安である。","x":7.311222,"y":10.665764,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-6_0","argument":"普段からあいさつをして、楽しくするのが良い。","x":9.704274,"y":8.619489,"p":0,"cluster_ids":["0","1_5","2_2"],"attributes":null,"url":null},{"arg_id":"Acsv-7_0","argument":"災害前に避難所単位で顔を合わせる機会を増やすべきである。","x":5.0270095,"y":8.338082,"p":0,"cluster_ids":["0","1_1","2_6"],"attributes":null,"url":null},{"arg_id":"Acsv-7_1","argument":"知らない人とは声をかけにくいが、知っている人だと協力したいと思う。","x":7.8979816,"y":7.3885174,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-8_0","argument":"マンションに住んでいるとお隣さんが誰かわからないことが多い","x":8.024044,"y":9.857674,"p":0,"cluster_ids":["0","1_3","2_1"],"attributes":null,"url":null},{"arg_id":"Acsv-8_1","argument":"地域での防災訓練や周囲の人との交流の機会が必要である","x":5.3021007,"y":10.375755,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-8_2","argument":"もしもの際に助け合いやすくするために交流が重要である","x":7.3011436,"y":7.076873,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-9_0","argument":"災害時に協力するためには、普段から顔見知り程度の関係を築くことが重要であり、そのために挨拶などをするのが効果的だと思う。","x":5.736588,"y":7.5093474,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-10_0","argument":"近所の人と顔見知りになる機会があると良いと思う","x":8.59632,"y":9.821013,"p":0,"cluster_ids":["0","1_3","2_1"],"attributes":null,"url":null},{"arg_id":"Acsv-10_1","argument":"近所の人との交流ができる機会があると良いと思う","x":9.294633,"y":9.926157,"p":0,"cluster_ids":["0","1_3","2_9"],"attributes":null,"url":null},{"arg_id":"Acsv-11_0","argument":"火災警報の誤報時に避難する際、パニックを起こす人がいるため、避難誘導や支援が重要である。","x":4.7066283,"y":8.48046,"p":0,"cluster_ids":["0","1_1","2_6"],"attributes":null,"url":null},{"arg_id":"Acsv-11_1","argument":"共助について考えるきっかけになった。","x":7.274497,"y":6.531903,"p":0,"cluster_ids":["0","1_2","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-12_0","argument":"町内会に入っていなくても、区や町単位で社会人が参加できるゆるやかなコミュニティがあると嬉しい。","x":7.4466496,"y":11.177277,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-12_1","argument":"普段から街に対する関心や理解を色々な人と意見交換できることで、一人ひとりが自分ごととして防災を考えられるようになると思う。","x":5.9659243,"y":9.82884,"p":0,"cluster_ids":["0","1_1","2_3"],"attributes":null,"url":null},{"arg_id":"Acsv-12_2","argument":"発災時には独り暮らしや世代間で必要な助けに濃淡が出てくるため、そのシミュレーションのアイデアについて話したい。","x":5.572779,"y":7.3458085,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-13_0","argument":"地域社会が希薄である中で、自己を優先する方が多くなると感じる。","x":8.81675,"y":10.825594,"p":0,"cluster_ids":["0","1_3","2_16"],"attributes":null,"url":null},{"arg_id":"Acsv-13_1","argument":"助け合いの場が少ないため、日常的に譲り合いや助け合いの空気感を出すことが重要。","x":7.0075064,"y":6.603878,"p":0,"cluster_ids":["0","1_2","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-13_2","argument":"歩きタバコや人にぶつかる行為が多く、公共の場でのマナーが欠けている。","x":6.4687057,"y":9.363776,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-13_3","argument":"水神公園での自転車走行など、危険な行為が見受けられる。","x":5.2832227,"y":9.035139,"p":0,"cluster_ids":["0","1_1","2_24"],"attributes":null,"url":null},{"arg_id":"Acsv-13_4","argument":"シナモロールのキャラクターを活かして、ほんわかした雰囲気を作ることができれば良い。","x":10.575778,"y":8.279277,"p":0,"cluster_ids":["0","1_4","2_11"],"attributes":null,"url":null},{"arg_id":"Acsv-14_0","argument":"率先して動くことが重要である。","x":7.261824,"y":8.106855,"p":0,"cluster_ids":["0","1_2","2_10"],"attributes":null,"url":null},{"arg_id":"Acsv-14_1","argument":"自分が行動することで他の人も動いてくれる。","x":8.099926,"y":7.3590407,"p":0,"cluster_ids":["0","1_5","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-15_0","argument":"災害時に必要なのは「モノ」だけでなく「人と仕組み」である。","x":5.7700996,"y":7.10427,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-15_1","argument":"町ごとに小さな備蓄ステーションを作り、物資とともに人の力を登録できる仕組みが必要である。","x":6.8457274,"y":8.368059,"p":0,"cluster_ids":["0","1_2","2_10"],"attributes":null,"url":null},{"arg_id":"Acsv-15_2","argument":"備蓄品の期限が近づいたら子ども食堂やフードバンクに回すことで、平時にも役立つ。","x":6.6421075,"y":8.583342,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-15_3","argument":"防災の備えを日常の価値につなげる方法があると考えている。","x":5.511944,"y":9.84055,"p":0,"cluster_ids":["0","1_1","2_3"],"attributes":null,"url":null},{"arg_id":"Acsv-16_0","argument":"避難所に全員が入れるか心配である","x":4.805226,"y":8.638353,"p":0,"cluster_ids":["0","1_1","2_24"],"attributes":null,"url":null},{"arg_id":"Acsv-16_1","argument":"新しいマンションに住んでいる人も避難所に行きたいと考えている","x":4.7644973,"y":8.93868,"p":0,"cluster_ids":["0","1_1","2_24"],"attributes":null,"url":null},{"arg_id":"Acsv-17_0","argument":"LINEのオープンチャット等を活用してリアルタイムで情報を交換できると良いと思う","x":9.436339,"y":10.122181,"p":0,"cluster_ids":["0","1_3","2_9"],"attributes":null,"url":null},{"arg_id":"Acsv-17_1","argument":"気軽に困りごとを相談したり、有益な情報を共有できるようになると素晴らしい","x":9.565435,"y":10.433518,"p":0,"cluster_ids":["0","1_3","2_19"],"attributes":null,"url":null},{"arg_id":"Acsv-17_2","argument":"ペット連れ、障害者、高齢者、各町会等々、多様なルームを作って活発に情報交換や交流が行われると救われる人も多いのではないか","x":8.958115,"y":10.523236,"p":0,"cluster_ids":["0","1_3","2_13"],"attributes":null,"url":null},{"arg_id":"Acsv-18_0","argument":"平時から近隣住民の方と顔の見える関係を構築しておくことが重要である。","x":8.690955,"y":9.48443,"p":0,"cluster_ids":["0","1_3","2_15"],"attributes":null,"url":null},{"arg_id":"Acsv-19_0","argument":"もともと付き合いがある人とは自然に助け合うことができる","x":7.733249,"y":6.7787075,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-19_1","argument":"普段から付き合いがない人に対して自分から手を差し伸べることができるかは分からない","x":9.152046,"y":7.6326685,"p":0,"cluster_ids":["0","1_5","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-19_2","argument":"周囲の人が手を差し伸べようとしなかった時に自分から進んでできるか自信がない","x":8.383259,"y":7.23807,"p":0,"cluster_ids":["0","1_5","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-19_3","argument":"災害に直面した時に、もともとの関係性によらず助け合えるのが人間であり、求められることだと思う","x":5.9333687,"y":7.03549,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-20_0","argument":"もともと付き合いがある人とは自然に助け合うことができると思う。","x":7.6819143,"y":6.720142,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-20_1","argument":"普段から付き合いがない人に対して自分から手を差し伸べることができるかは分からない。","x":9.177459,"y":7.6220813,"p":0,"cluster_ids":["0","1_5","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-20_2","argument":"周囲の人が手を差し伸べようとしなかった時に自分から進んでできるか自信がない。","x":8.297627,"y":7.2144732,"p":0,"cluster_ids":["0","1_5","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-20_3","argument":"災害に直面した時に、もともとの関係性によらず助け合えるのが人間であり、求められることだと思う。","x":5.9470153,"y":7.0472484,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-21_0","argument":"普段から声がけをしているべきである。","x":10.618067,"y":8.578596,"p":0,"cluster_ids":["0","1_4","2_11"],"attributes":null,"url":null},{"arg_id":"Acsv-22_0","argument":"顔の見える関係性が重要である。","x":8.401688,"y":9.275041,"p":0,"cluster_ids":["0","1_3","2_15"],"attributes":null,"url":null},{"arg_id":"Acsv-23_0","argument":"核となる人づくりが重要である。","x":9.957492,"y":10.1851845,"p":0,"cluster_ids":["0","1_3","2_9"],"attributes":null,"url":null},{"arg_id":"Acsv-24_0","argument":"商店街によく来る人は、情報が集まりやすい。","x":9.085938,"y":10.43859,"p":0,"cluster_ids":["0","1_3","2_13"],"attributes":null,"url":null},{"arg_id":"Acsv-24_1","argument":"話しができると安心する。","x":9.696638,"y":9.167764,"p":0,"cluster_ids":["0","1_3","2_20"],"attributes":null,"url":null},{"arg_id":"Acsv-25_0","argument":"防災訓練は重要である","x":4.9599876,"y":9.930871,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-25_1","argument":"災害時に顔見知りが最大の味方になる","x":5.6318307,"y":7.637809,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-26_0","argument":"ご近所さんが減っているため、一人一人が自分を考えて過ごしている。","x":8.967044,"y":9.704603,"p":0,"cluster_ids":["0","1_3","2_20"],"attributes":null,"url":null},{"arg_id":"Acsv-27_0","argument":"となりの人も知らないので不安である","x":8.704329,"y":7.981229,"p":0,"cluster_ids":["0","1_5","2_18"],"attributes":null,"url":null},{"arg_id":"Acsv-28_0","argument":"普段からのお付き合いが重要である","x":9.789474,"y":8.29955,"p":0,"cluster_ids":["0","1_5","2_2"],"attributes":null,"url":null},{"arg_id":"Acsv-29_0","argument":"資源を分け合うことが重要である。","x":7.225458,"y":8.275981,"p":0,"cluster_ids":["0","1_2","2_10"],"attributes":null,"url":null},{"arg_id":"Acsv-30_0","argument":"声かけはコミュニケーションの一環として重要である。","x":10.669671,"y":9.613347,"p":0,"cluster_ids":["0","1_4","2_23"],"attributes":null,"url":null},{"arg_id":"Acsv-31_0","argument":"何かあったときは電話で確認をするべきである","x":8.617935,"y":8.690029,"p":0,"cluster_ids":["0","1_5","2_18"],"attributes":null,"url":null},{"arg_id":"Acsv-32_0","argument":"普段からの声がけが必要である","x":10.621811,"y":8.683399,"p":0,"cluster_ids":["0","1_4","2_11"],"attributes":null,"url":null},{"arg_id":"Acsv-32_1","argument":"しかし、あまりできていない","x":8.72961,"y":7.9860506,"p":0,"cluster_ids":["0","1_5","2_18"],"attributes":null,"url":null},{"arg_id":"Acsv-33_0","argument":"避難場所が不安である","x":4.8304687,"y":8.657526,"p":0,"cluster_ids":["0","1_1","2_24"],"attributes":null,"url":null},{"arg_id":"Acsv-34_0","argument":"近所のお付き合いが大事であるが、なかなかできていない。","x":9.314465,"y":8.182037,"p":0,"cluster_ids":["0","1_5","2_2"],"attributes":null,"url":null},{"arg_id":"Acsv-35_0","argument":"相互に安全確認や援助が行えると良い","x":6.917037,"y":7.180193,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-35_1","argument":"日頃からのコミュニケーションが不足していると感じる","x":10.112549,"y":9.613876,"p":0,"cluster_ids":["0","1_4","2_23"],"attributes":null,"url":null},{"arg_id":"Acsv-36_0","argument":"お互いに呼びかけ合い、避難したり、必要なものをシェアしたりできると良いと思う。","x":7.171325,"y":7.2721014,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-36_1","argument":"1人1人が災害に対して、さらに意識できれば良いと思う。","x":5.5532007,"y":7.2917514,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-37_0","argument":"多文化共生により共同体意識が希薄になると、住民同士が助け合えるのか不安である。","x":6.6241384,"y":10.047988,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-37_1","argument":"発災後の治安を保つ政策を国や都、区が考えてほしい。","x":5.9353857,"y":10.0862055,"p":0,"cluster_ids":["0","1_1","2_3"],"attributes":null,"url":null},{"arg_id":"Acsv-38_0","argument":"災害時は、一人で何とかしようとせず、大きな声で周りの人の助けを求めることが大切である。","x":5.73963,"y":7.0985727,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-38_1","argument":"いざという時に声を出せるように、日々避難訓練を行うべきである。","x":4.792099,"y":9.254729,"p":0,"cluster_ids":["0","1_1","2_24"],"attributes":null,"url":null},{"arg_id":"Acsv-39_0","argument":"隣人との付き合いが全くないため、実災害で助け合うのは難しい。","x":6.1154523,"y":7.1699367,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-40_0","argument":"町会の方々と集合場所に集まり豊葉の杜に行くことになっている。","x":7.262204,"y":10.845456,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-41_0","argument":"近所付き合いを良くすることが重要である","x":9.21635,"y":8.34518,"p":0,"cluster_ids":["0","1_5","2_2"],"attributes":null,"url":null},{"arg_id":"Acsv-42_0","argument":"近くまで浸水してきた時に教えてあげるべきである。","x":6.111351,"y":9.021067,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-43_0","argument":"近所にどんな人が住んでいるか知らない","x":8.148495,"y":9.410307,"p":0,"cluster_ids":["0","1_3","2_15"],"attributes":null,"url":null},{"arg_id":"Acsv-44_0","argument":"近所の人との連絡を密にするべきである。","x":9.228891,"y":9.298736,"p":0,"cluster_ids":["0","1_3","2_20"],"attributes":null,"url":null},{"arg_id":"Acsv-44_1","argument":"歩けない高齢者に日頃から声をかけるべきである。","x":10.89302,"y":8.870237,"p":0,"cluster_ids":["0","1_4","2_11"],"attributes":null,"url":null},{"arg_id":"Acsv-45_0","argument":"近所付き合いをしていないので不安である","x":8.93072,"y":7.9720144,"p":0,"cluster_ids":["0","1_5","2_18"],"attributes":null,"url":null},{"arg_id":"Acsv-45_1","argument":"今後の課題として近所の人との付き合いをするようにしていきたい","x":9.10694,"y":9.567185,"p":0,"cluster_ids":["0","1_3","2_20"],"attributes":null,"url":null},{"arg_id":"Acsv-46_0","argument":"消火栓や水道管が壊れた場合に備えて水槽の設置を検討すべき","x":6.3080087,"y":8.785983,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-46_1","argument":"食糧が不足する可能性がある","x":6.693911,"y":8.652012,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-47_0","argument":"ふだんの声かけが重要である","x":10.886843,"y":8.831861,"p":0,"cluster_ids":["0","1_4","2_11"],"attributes":null,"url":null},{"arg_id":"Acsv-48_0","argument":"地域の住民と企業の方とのコミュニケーションが大切である","x":8.799276,"y":11.301,"p":0,"cluster_ids":["0","1_3","2_16"],"attributes":null,"url":null},{"arg_id":"Acsv-48_1","argument":"地区のお祭りやイベントを通じて住民同士や企業との繋がりを促進している","x":8.30751,"y":11.459529,"p":0,"cluster_ids":["0","1_3","2_16"],"attributes":null,"url":null},{"arg_id":"Acsv-48_2","argument":"防災訓練や消火器の点検など基本的な安全対策を日ごろから行っている","x":5.0950346,"y":9.908365,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-49_0","argument":"現在センターのある八潮地区で定期的に話し合う時間を作り、顔見知りとなることができた。","x":8.646228,"y":10.116681,"p":0,"cluster_ids":["0","1_3","2_1"],"attributes":null,"url":null},{"arg_id":"Acsv-49_1","argument":"今後、地区防災訓練に参加し、センターでの防災訓練にも参加する等の行動を起こすことが必要である。","x":5.1450224,"y":10.067039,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-49_2","argument":"行動が不足していると感じている。","x":8.342806,"y":8.13919,"p":0,"cluster_ids":["0","1_5","2_18"],"attributes":null,"url":null},{"arg_id":"Acsv-50_0","argument":"普段の関係性が基本だが、旧来の人は高齢化し、新しい人や若い人は無関心であることが悩ましい。","x":9.688824,"y":8.15015,"p":0,"cluster_ids":["0","1_5","2_2"],"attributes":null,"url":null},{"arg_id":"Acsv-50_1","argument":"この状況をどうすればよいのか悩んでいる。","x":8.505322,"y":7.8392425,"p":0,"cluster_ids":["0","1_5","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-51_0","argument":"防災訓練がどこまでリアルにできるかは難しい。","x":4.794146,"y":10.102908,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-52_0","argument":"町会を通して普段より話し合いを行うべきである。","x":7.9545484,"y":10.804982,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-52_1","argument":"要介護者の把握が重要である。","x":6.907999,"y":7.834056,"p":0,"cluster_ids":["0","1_2","2_10"],"attributes":null,"url":null},{"arg_id":"Acsv-53_0","argument":"水を常備しておくべきである。","x":6.493784,"y":8.8643465,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-54_0","argument":"近所の方たちとは日頃から声をかけあうべきである。","x":10.285424,"y":8.913528,"p":0,"cluster_ids":["0","1_4","2_21"],"attributes":null,"url":null},{"arg_id":"Acsv-54_1","argument":"いざという時にお互いに心強い存在になれると良いと思う。","x":7.486503,"y":7.0117936,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-55_0","argument":"防災部を中心として防災対応を先導すべきである。","x":5.3613787,"y":10.019693,"p":0,"cluster_ids":["0","1_1","2_3"],"attributes":null,"url":null},{"arg_id":"Acsv-56_0","argument":"災害時に頼るところがわからない。","x":5.8458986,"y":7.1916447,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-57_0","argument":"ボランティアを増やすべきである。","x":7.14522,"y":6.3491263,"p":0,"cluster_ids":["0","1_2","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-58_0","argument":"近所の人とは常に声をかけ合うようにするべきである。","x":10.184156,"y":8.805445,"p":0,"cluster_ids":["0","1_4","2_21"],"attributes":null,"url":null},{"arg_id":"Acsv-59_0","argument":"防災訓練には協力参加している","x":4.9856825,"y":10.152053,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-60_0","argument":"近所のつきあいが少ないので、もっとつきあえれば良いと思う。","x":9.132574,"y":8.40614,"p":0,"cluster_ids":["0","1_5","2_2"],"attributes":null,"url":null},{"arg_id":"Acsv-62_0","argument":"情報共有や食べ物のシェアが重要である","x":9.428142,"y":10.668912,"p":0,"cluster_ids":["0","1_3","2_19"],"attributes":null,"url":null},{"arg_id":"Acsv-63_0","argument":"お互い皆仲よくして助けあっている。","x":7.38587,"y":6.968931,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-64_0","argument":"近所の方とあいさつをすることは大切である。","x":9.381031,"y":8.673609,"p":0,"cluster_ids":["0","1_5","2_2"],"attributes":null,"url":null},{"arg_id":"Acsv-65_0","argument":"情報共有を円滑にするべきである。","x":9.434456,"y":10.566505,"p":0,"cluster_ids":["0","1_3","2_19"],"attributes":null,"url":null},{"arg_id":"Acsv-66_0","argument":"町会で〇前訓練を行うべきである。","x":6.724042,"y":10.8036995,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-67_0","argument":"トイレなどの設備が不足して困る可能性がある","x":6.438512,"y":9.194469,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-68_0","argument":"知人と一緒にコミュニケーションできることが望ましい。","x":9.532859,"y":9.970021,"p":0,"cluster_ids":["0","1_3","2_9"],"attributes":null,"url":null},{"arg_id":"Acsv-69_0","argument":"お互いに顔が見える関係性があったうえで、できることを出しあえるような助け合いが重要である。","x":7.5168786,"y":7.1461616,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-69_1","argument":"日頃からの関係性づくりが必要である。","x":10.002517,"y":9.636699,"p":0,"cluster_ids":["0","1_4","2_23"],"attributes":null,"url":null},{"arg_id":"Acsv-70_0","argument":"仕事を助け合うべきである","x":7.1701336,"y":6.734427,"p":0,"cluster_ids":["0","1_2","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-70_1","argument":"近い人から物資を分け合うべきである","x":7.5882125,"y":8.459602,"p":0,"cluster_ids":["0","1_2","2_10"],"attributes":null,"url":null},{"arg_id":"Acsv-71_0","argument":"イベントでの交流は重要である。","x":9.071287,"y":11.323239,"p":0,"cluster_ids":["0","1_3","2_16"],"attributes":null,"url":null},{"arg_id":"Acsv-72_0","argument":"マンションの住人同士で情報を共有する必要がある。","x":8.899404,"y":10.459561,"p":0,"cluster_ids":["0","1_3","2_13"],"attributes":null,"url":null},{"arg_id":"Acsv-73_0","argument":"地域の方々との助け合いが鍵になると思う","x":7.745311,"y":6.438715,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-73_1","argument":"転入者は助け合いの機会がなかなか無い","x":7.480239,"y":6.426084,"p":0,"cluster_ids":["0","1_2","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-74_0","argument":"町内会活動は地域のつながりを強化するために重要である。","x":7.544652,"y":11.251022,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-74_1","argument":"町内会活動を通じて住民同士の交流を促進すべきである。","x":7.500408,"y":11.1552,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-75_0","argument":"集合場所を決めておくべきである。","x":5.4605355,"y":8.528182,"p":0,"cluster_ids":["0","1_1","2_6"],"attributes":null,"url":null},{"arg_id":"Acsv-76_0","argument":"助け合いをこころがけるべきである。","x":7.090509,"y":6.491215,"p":0,"cluster_ids":["0","1_2","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-77_0","argument":"地域とのコミュニケーションが重要である","x":9.079348,"y":10.989868,"p":0,"cluster_ids":["0","1_3","2_16"],"attributes":null,"url":null},{"arg_id":"Acsv-78_0","argument":"普段からのコミュニケーションが必要である。","x":10.275111,"y":9.577556,"p":0,"cluster_ids":["0","1_4","2_23"],"attributes":null,"url":null},{"arg_id":"Acsv-78_1","argument":"避難所や町会とのリンクが薄いので、PR活動をして浸透させることが大事である。","x":4.4912825,"y":8.671549,"p":0,"cluster_ids":["0","1_1","2_24"],"attributes":null,"url":null},{"arg_id":"Acsv-79_0","argument":"同じマンション、町会のつながりが大事になると思うので、そのあたりのつながりを大切にしている。","x":8.536961,"y":9.580582,"p":0,"cluster_ids":["0","1_3","2_15"],"attributes":null,"url":null},{"arg_id":"Acsv-80_0","argument":"近隣同士で声をかけ合うことが重要である。","x":10.538913,"y":9.035563,"p":0,"cluster_ids":["0","1_4","2_21"],"attributes":null,"url":null},{"arg_id":"Acsv-81_0","argument":"近隣の人と知り合うことが重要である。","x":8.767783,"y":9.51976,"p":0,"cluster_ids":["0","1_3","2_15"],"attributes":null,"url":null},{"arg_id":"Acsv-81_1","argument":"普段から声がけし合える間柄が望ましい。","x":10.63691,"y":8.598702,"p":0,"cluster_ids":["0","1_4","2_11"],"attributes":null,"url":null},{"arg_id":"Acsv-82_0","argument":"目の前が消防署なので、少し安心している。","x":5.718891,"y":9.254465,"p":0,"cluster_ids":["0","1_1","2_3"],"attributes":null,"url":null},{"arg_id":"Acsv-82_1","argument":"いざという時の連絡手段や段取りなどの情報が不足している気がする。","x":8.584483,"y":8.46732,"p":0,"cluster_ids":["0","1_5","2_18"],"attributes":null,"url":null},{"arg_id":"Acsv-83_0","argument":"気軽に声を掛けられるようになると良いと思う。","x":10.695372,"y":8.492126,"p":0,"cluster_ids":["0","1_4","2_11"],"attributes":null,"url":null},{"arg_id":"Acsv-84_0","argument":"子供を守るために、親世代同士が助け合うべきだと思う。","x":6.8130713,"y":7.0757427,"p":0,"cluster_ids":["0","1_2","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-85_0","argument":"近隣の人とふだんからあいさつをし、顔を覚えてもらうべきである。","x":8.803236,"y":9.094431,"p":0,"cluster_ids":["0","1_3","2_15"],"attributes":null,"url":null},{"arg_id":"Acsv-86_0","argument":"避難場所を把握していることが重要である","x":4.8408685,"y":8.673556,"p":0,"cluster_ids":["0","1_1","2_24"],"attributes":null,"url":null},{"arg_id":"Acsv-87_0","argument":"コミュニケーションは人間関係を築く上で重要である。","x":10.316337,"y":10.028403,"p":0,"cluster_ids":["0","1_4","2_23"],"attributes":null,"url":null},{"arg_id":"Acsv-88_0","argument":"家族が集まる場所を決めるべきである。","x":5.313853,"y":8.518061,"p":0,"cluster_ids":["0","1_1","2_6"],"attributes":null,"url":null},{"arg_id":"Acsv-89_0","argument":"おじいちゃん、おばあちゃんに対して優しく声をかけることが大切である。","x":10.976837,"y":8.915628,"p":0,"cluster_ids":["0","1_4","2_21"],"attributes":null,"url":null},{"arg_id":"Acsv-89_1","argument":"おじいちゃん、おばあちゃんとのコミュニケーションを大切にし、定期的に声をかけるべきである。","x":10.861647,"y":9.207791,"p":0,"cluster_ids":["0","1_4","2_21"],"attributes":null,"url":null},{"arg_id":"Acsv-90_0","argument":"無事ですのステッカーなどを貼る訓練が必要である。","x":5.187593,"y":9.636871,"p":0,"cluster_ids":["0","1_1","2_3"],"attributes":null,"url":null},{"arg_id":"Acsv-91_0","argument":"声をかけ合うことは重要である。","x":10.607286,"y":9.14401,"p":0,"cluster_ids":["0","1_4","2_21"],"attributes":null,"url":null},{"arg_id":"Acsv-92_0","argument":"近所付き合いがないことが助け合いに影響することを心配している。","x":9.126764,"y":8.118765,"p":0,"cluster_ids":["0","1_5","2_2"],"attributes":null,"url":null},{"arg_id":"Acsv-93_0","argument":"近くの年配の方のサポートをしてあげるべきである。","x":8.069268,"y":8.519607,"p":0,"cluster_ids":["0","1_5","2_18"],"attributes":null,"url":null},{"arg_id":"Acsv-93_1","argument":"普段から声をかけて交流を深めるべきである。","x":10.475267,"y":8.73572,"p":0,"cluster_ids":["0","1_4","2_11"],"attributes":null,"url":null},{"arg_id":"Acsv-94_0","argument":"物資の交換は重要な経済活動である。","x":9.43317,"y":11.109784,"p":0,"cluster_ids":["0","1_3","2_19"],"attributes":null,"url":null},{"arg_id":"Acsv-95_0","argument":"顔見知りであれば、迷子の人を一緒に探すべきである。","x":8.479503,"y":9.63108,"p":0,"cluster_ids":["0","1_3","2_15"],"attributes":null,"url":null},{"arg_id":"Acsv-96_0","argument":"まわりの人たちと日々交流し、仲良くするべきである。","x":9.609844,"y":9.531032,"p":0,"cluster_ids":["0","1_3","2_9"],"attributes":null,"url":null},{"arg_id":"Acsv-96_1","argument":"助け合うことが重要である。","x":6.9869747,"y":6.6324,"p":0,"cluster_ids":["0","1_2","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-97_0","argument":"1週間位は自宅で過ごせるようにしたい。","x":4.993388,"y":8.789957,"p":0,"cluster_ids":["0","1_1","2_24"],"attributes":null,"url":null},{"arg_id":"Acsv-98_0","argument":"地域の方と顔見知りになっておくべき","x":8.3020735,"y":9.964276,"p":0,"cluster_ids":["0","1_3","2_1"],"attributes":null,"url":null},{"arg_id":"Acsv-98_1","argument":"近所にどんな方がいるのか知っておくべき","x":8.292808,"y":9.316302,"p":0,"cluster_ids":["0","1_3","2_15"],"attributes":null,"url":null},{"arg_id":"Acsv-99_0","argument":"日頃近所の方たちと仲良くするべきである。","x":9.22543,"y":9.515667,"p":0,"cluster_ids":["0","1_3","2_20"],"attributes":null,"url":null},{"arg_id":"Acsv-100_0","argument":"町会や区の指示に従って行動すべき","x":6.9162416,"y":10.9356785,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-100_1","argument":"情報交換が重要である","x":9.590072,"y":10.769091,"p":0,"cluster_ids":["0","1_3","2_19"],"attributes":null,"url":null},{"arg_id":"Acsv-101_0","argument":"子供の安全を確保することが重要である。","x":6.269918,"y":8.013878,"p":0,"cluster_ids":["0","1_2","2_22"],"attributes":null,"url":null},{"arg_id":"Acsv-102_0","argument":"声のかけあいはコミュニケーションを円滑にするために重要である。","x":10.711441,"y":9.545702,"p":0,"cluster_ids":["0","1_4","2_23"],"attributes":null,"url":null},{"arg_id":"Acsv-103_0","argument":"近くの地域がどのような備えをしているかの情報共有があると良い。","x":8.663821,"y":10.556119,"p":0,"cluster_ids":["0","1_3","2_13"],"attributes":null,"url":null},{"arg_id":"Acsv-104_0","argument":"マンションの場合、近隣の避難訓練に参加すべき","x":4.715839,"y":9.409073,"p":0,"cluster_ids":["0","1_1","2_24"],"attributes":null,"url":null},{"arg_id":"Acsv-105_0","argument":"地域の方とは顔見知りである","x":8.201677,"y":10.075235,"p":0,"cluster_ids":["0","1_3","2_1"],"attributes":null,"url":null},{"arg_id":"Acsv-105_1","argument":"子どもたちも町会の方の顔を分かっている","x":7.69516,"y":10.588323,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-105_2","argument":"大規模な訓練には参加したことがなく、具体的なイメージはわかない","x":4.8033967,"y":10.1887,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-106_0","argument":"ご近所さんと情報交換をし、良好な関係を築くことを意識すべき","x":9.199057,"y":9.877565,"p":0,"cluster_ids":["0","1_3","2_9"],"attributes":null,"url":null},{"arg_id":"Acsv-107_0","argument":"避難場所を把握し、適切に誘導する必要がある","x":4.7267118,"y":8.549899,"p":0,"cluster_ids":["0","1_1","2_6"],"attributes":null,"url":null},{"arg_id":"Acsv-107_1","argument":"備蓄品が置いてある場所を把握し、提供することが重要である","x":6.6278358,"y":8.451777,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-108_0","argument":"1.5mのバールを家に常備しているので、周囲の家が崩壊した時は助けに行くべきである。","x":6.0011497,"y":8.546403,"p":0,"cluster_ids":["0","1_2","2_22"],"attributes":null,"url":null},{"arg_id":"Acsv-109_0","argument":"自治会での催しを通して知り合いを増やすことが望ましい","x":7.7815075,"y":11.409113,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-109_1","argument":"共助の意味を広く知ってもらうために講義を行っている","x":7.3028107,"y":6.5111036,"p":0,"cluster_ids":["0","1_2","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-110_0","argument":"隣近所の人と点呼をとって安全確認をするべきである。","x":8.632392,"y":8.987296,"p":0,"cluster_ids":["0","1_3","2_15"],"attributes":null,"url":null},{"arg_id":"Acsv-110_1","argument":"お互いの人となりを知っているので、役割分担をして避難所の運営を行うべきである。","x":5.0736856,"y":8.1651125,"p":0,"cluster_ids":["0","1_1","2_6"],"attributes":null,"url":null},{"arg_id":"Acsv-111_0","argument":"同じ居住区に住んでいる方々との面識を持つべきである。","x":8.442416,"y":9.844325,"p":0,"cluster_ids":["0","1_3","2_1"],"attributes":null,"url":null},{"arg_id":"Acsv-112_0","argument":"災害時に高齢者やファミリー世帯は地域と接点があるが、独身の現役世代はつながりが弱い。","x":6.0151596,"y":7.71877,"p":0,"cluster_ids":["0","1_2","2_22"],"attributes":null,"url":null},{"arg_id":"Acsv-112_1","argument":"平時から地域との接点を強くする施策が必要である。","x":8.571349,"y":11.076102,"p":0,"cluster_ids":["0","1_3","2_16"],"attributes":null,"url":null},{"arg_id":"Acsv-113_0","argument":"互いに協力し合うべきである","x":7.266788,"y":6.8716526,"p":0,"cluster_ids":["0","1_2","2_17"],"attributes":null,"url":null},{"arg_id":"Acsv-114_0","argument":"日頃のコミュニケーション（あいさつ、日常会話等）が大切である","x":10.236243,"y":9.83464,"p":0,"cluster_ids":["0","1_4","2_23"],"attributes":null,"url":null},{"arg_id":"Acsv-115_0","argument":"ご近所つきあいを大切にするべきである","x":8.956369,"y":9.159433,"p":0,"cluster_ids":["0","1_3","2_20"],"attributes":null,"url":null},{"arg_id":"Acsv-116_0","argument":"平時から近所の方とのかかわりを大切にすべき","x":8.973563,"y":9.216757,"p":0,"cluster_ids":["0","1_3","2_20"],"attributes":null,"url":null},{"arg_id":"Acsv-117_0","argument":"近所の人とお話をすることで信頼関係を築くべきである。","x":9.408412,"y":9.341625,"p":0,"cluster_ids":["0","1_3","2_20"],"attributes":null,"url":null},{"arg_id":"Acsv-117_1","argument":"信頼関係を通じて災害時の安否確認につなげるべきである。","x":6.054676,"y":7.4968925,"p":0,"cluster_ids":["0","1_2","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-118_0","argument":"特に行っていないが、これから活動しようと思う。","x":7.3026958,"y":10.231421,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-119_0","argument":"トイレは清潔で快適な環境であるべきです。","x":6.689519,"y":9.41087,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-119_1","argument":"トイレの利用に関するマナーを教育する必要があります。","x":6.344057,"y":9.419194,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-120_0","argument":"普段から交流をしておくべきである。","x":10.064394,"y":9.195268,"p":0,"cluster_ids":["0","1_4","2_23"],"attributes":null,"url":null},{"arg_id":"Acsv-121_0","argument":"水をためておくべきである。","x":6.513101,"y":8.839247,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-122_0","argument":"マンションで年に1回防災訓練に参加している","x":4.7831216,"y":9.7252035,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-123_0","argument":"よく分からない","x":8.720968,"y":7.6217346,"p":0,"cluster_ids":["0","1_5","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-124_0","argument":"防災訓練への参加が重要である","x":4.949131,"y":10.197578,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-124_1","argument":"隣近所や町会の方とのコミュニケーションが必要である","x":9.088148,"y":10.067404,"p":0,"cluster_ids":["0","1_3","2_13"],"attributes":null,"url":null},{"arg_id":"Acsv-125_0","argument":"地域の人との交流は重要である。","x":9.00182,"y":11.088659,"p":0,"cluster_ids":["0","1_3","2_16"],"attributes":null,"url":null},{"arg_id":"Acsv-126_0","argument":"何をしていいか分からない","x":8.694238,"y":7.6397514,"p":0,"cluster_ids":["0","1_5","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-127_0","argument":"日頃から周囲の人々とつながっておくべきである。","x":9.621563,"y":9.612115,"p":0,"cluster_ids":["0","1_3","2_9"],"attributes":null,"url":null},{"arg_id":"Acsv-128_0","argument":"町会の活動に進んで参加している。","x":7.2172008,"y":11.015101,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-129_0","argument":"思ったときに声をかけあえる関係を普段から築けると良い。","x":10.525638,"y":8.616915,"p":0,"cluster_ids":["0","1_4","2_11"],"attributes":null,"url":null},{"arg_id":"Acsv-130_0","argument":"町会にあいさつする時間が必要である","x":7.086964,"y":10.934227,"p":0,"cluster_ids":["0","1_3","2_12"],"attributes":null,"url":null},{"arg_id":"Acsv-130_1","argument":"学校が拠点となるため、いろんな人がいると思う","x":9.062585,"y":9.99726,"p":0,"cluster_ids":["0","1_3","2_9"],"attributes":null,"url":null},{"arg_id":"Acsv-130_2","argument":"ルール決めが大事である","x":7.1810513,"y":8.02568,"p":0,"cluster_ids":["0","1_2","2_10"],"attributes":null,"url":null},{"arg_id":"Acsv-131_0","argument":"子どもが生まれたことにより、防災イベント（訓練）に参加する意識が高まった。","x":5.2132635,"y":10.10291,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-132_0","argument":"地域イベントや話し合いの会議は定期的に行われるべきである。","x":8.586081,"y":11.281542,"p":0,"cluster_ids":["0","1_3","2_16"],"attributes":null,"url":null},{"arg_id":"Acsv-133_0","argument":"イベントでふれあいやすく防災にふれてもらうべき","x":5.4426894,"y":10.364247,"p":0,"cluster_ids":["0","1_1","2_3"],"attributes":null,"url":null},{"arg_id":"Acsv-133_1","argument":"防災に関して知ってもらい、近くに頼れる人がいることを知るべき","x":5.6037354,"y":8.591362,"p":0,"cluster_ids":["0","1_2","2_22"],"attributes":null,"url":null},{"arg_id":"Acsv-134_0","argument":"避難所の場所を知りたい","x":4.729109,"y":8.515586,"p":0,"cluster_ids":["0","1_1","2_6"],"attributes":null,"url":null},{"arg_id":"Acsv-134_1","argument":"イベントに参加したい","x":8.056089,"y":11.736217,"p":0,"cluster_ids":["0","1_3","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-135_0","argument":"実際に経験してみないと分からない","x":8.576583,"y":7.4777966,"p":0,"cluster_ids":["0","1_5","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-135_1","argument":"訓練が大事であり、色々な防災品の使い方を学ぶべき","x":5.023319,"y":9.846414,"p":0,"cluster_ids":["0","1_1","2_14"],"attributes":null,"url":null},{"arg_id":"Acsv-135_2","argument":"同じことでも実際にやったほうが良い","x":8.280137,"y":7.55455,"p":0,"cluster_ids":["0","1_5","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-136_0","argument":"水などのライフラインは重要である。","x":6.612042,"y":8.859075,"p":0,"cluster_ids":["0","1_2","2_8"],"attributes":null,"url":null}],"clusters":[{"level":0,"id":"0","label":"全体","takeaway":"","value":214,"parent":"","density_rank_percentile":0},{"level":1,"id":"1_2","label":"地域コミュニティによる助け合いと災害時の安全確保の強化","takeaway":"地域コミュニティの絆を深め、災害時における相互支援の重要性を認識することが求められています。特に、顔見知りの関係を築くことで、災害時の安全確保や支援が円滑に行えるようになります。また、普段からの交流や助け合いの文化を育むことが、緊急時における協力体制の基盤となります。さらに、備蓄品の管理や公共マナーの教育を通じて、地域全体の防災意識を高めることが重要です。","value":57,"parent":"0","density_rank_percentile":1},{"level":1,"id":"1_3","label":"地域住民とのつながり強化による安心なコミュニティの構築","takeaway":"地域社会における住民同士のつながりを強化することが、安心感や助け合いの基盤を築くために重要であるとされています。具体的には、顔見知りの関係を育むための交流イベントや定期的なコミュニケーションの場を設けることが求められています。また、情報共有や物資のシェアを通じて、地域の活性化を図ることが強調されており、特に災害時における助け合いの文化を育むことが期待されています。地域の施設やオンラインツールを活用し、住民が互いに支え合う関係を築くことが、より良い地域社会の実現に繋がると考えられています。","value":74,"parent":"0","density_rank_percentile":0.8},{"level":1,"id":"1_1","label":"地域防災力向上のための訓練とコミュニティ連携の強化","takeaway":"地域の防災力を高めるためには、訓練の重要性と参加意識の向上が不可欠です。具体的には、地域での防災訓練を通じて住民同士の交流を促進し、避難所運営における役割分担を明確にすることが求められています。また、避難所の場所や運営方法についての情報共有を行い、事前に顔を合わせることで信頼関係を築くことが重要です。さらに、日常生活に防災を取り入れる施策や地域イベントを通じて、住民が主体的に防災を考える機会を増やすことが期待されています。","value":35,"parent":"0","density_rank_percentile":0.6},{"level":1,"id":"1_5","label":"地域社会の絆を深めるための近所付き合いの促進と支援行動の強化","takeaway":"地域社会における近所付き合いの重要性が強調されており、日常的なコミュニケーションや挨拶が助け合いや絆を深める要素として認識されています。しかし、高齢化や新しい住民の無関心といった課題が存在し、実際の支援行動に対する不安や自己効力感の欠如が見受けられます。地域コミュニティの連携を強化し、いざという時に備えるためのサポート体制の構築が求められています。","value":25,"parent":"0","density_rank_percentile":0.4},{"level":1,"id":"1_4","label":"高齢者との日常的な交流を通じた地域コミュニケーションの強化","takeaway":"高齢者との日常的な声かけや交流が、地域のつながりを深める重要な要素であることが強調されています。普段からのコミュニケーションが信頼関係を築き、特に高齢者に対して優しく声をかけることが地域社会の活性化に寄与します。また、シナモロールのキャラクターを活用したほんわかした雰囲気作りが、心温まる交流を促進する手段として提案されています。","value":23,"parent":"0","density_rank_percentile":0.2},{"level":2,"id":"2_4","label":"助け合いと共助の重要性の啓発","takeaway":"この意見グループは、困難に直面した際の励ましや協力の必要性、助け合いの文化を育むことの重要性に焦点を当てています。特に、親世代同士の助け合いやボランティア活動の促進、共助の意義を広めるための講義の実施など、具体的な行動や意識の変革が求められています。","value":10,"parent":"1_2","density_rank_percentile":0.16},{"level":2,"id":"2_16","label":"地域連携による単身世帯のつながり強化","takeaway":"この意見グループは、増加する単身世帯を地域社会で繋ぐために、企業と地域住民の連携を強化する必要性を訴えています。地域イベントや定期的な会議を通じて、住民同士や企業とのコミュニケーションを促進し、地域の希薄化を防ぐ施策が求められています。地域の情報を得る機会を増やし、平時からの接点を強化することが重要であるという意見が中心です。","value":10,"parent":"1_3","density_rank_percentile":0.76},{"level":2,"id":"2_5","label":"地域コミュニティの活性化と住民交流の促進","takeaway":"この意見グループは、品川区における町内会や地域コミュニティの重要性を強調しており、住民同士の交流を促進するための活動やイベントの必要性が中心です。また、図書館の利用促進や地域のつながりを強化する施策についても言及されており、誰もが参加できる多様なコミュニティの形成が求められています。","value":11,"parent":"1_3","density_rank_percentile":0.56},{"level":2,"id":"2_22","label":"地域コミュニティの絆と災害時の安全確保","takeaway":"この意見グループは、災害時における地域のつながりやコミュニティの重要性に焦点を当てています。特に、顔見知りの関係が災害時の安全確保に寄与すること、子供や障がい者、高齢者などの特別なニーズを持つ人々が安心できる地域環境の必要性、そして独身の現役世代が地域とつながることの重要性が強調されています。","value":6,"parent":"1_2","density_rank_percentile":0.92},{"level":2,"id":"2_12","label":"町内会活動の重要性と地域コミュニティの強化","takeaway":"この意見グループは、町内会の活動への参加が地域の助け合いや災害時の支援において重要であるという認識を示しています。また、多文化共生の中での共同体意識の希薄化や、町内会に加入していないことへの不安も表現されており、地域コミュニティの強化や住民同士のつながりの重要性が強調されています。","value":12,"parent":"1_3","density_rank_percentile":1},{"level":2,"id":"2_17","label":"地域コミュニティによる相互支援と助け合いの重要性","takeaway":"この意見グループは、地域の人々が互いに助け合い、支え合うことの重要性に焦点を当てています。特に、普段からの交流や顔の見える関係性が、緊急時における協力や支援を円滑にするための基盤となることが強調されています。地域コミュニティのつながりが、必要なサポートを事前に分かち合う仕組み作りに寄与することが求められています。","value":12,"parent":"1_2","density_rank_percentile":0.6},{"level":2,"id":"2_14","label":"地域防災訓練の重要性と参加意識の向上","takeaway":"この意見グループは、防災訓練の重要性を強調し、地域での訓練や交流の機会が必要であることを示しています。また、参加者の意識の変化や訓練の実施方法に対する意見も含まれており、特に子どもが生まれたことによる参加意識の高まりや、訓練のリアルさに対する疑問が挙げられています。全体として、地域の防災力を高めるための訓練参加の重要性が強調されています。","value":12,"parent":"1_1","density_rank_percentile":0.2},{"level":2,"id":"2_2","label":"近所付き合いの重要性とその課題","takeaway":"この意見グループは、近所付き合いの重要性を強調し、日常的なコミュニケーションや挨拶が地域社会の助け合いや絆を深めることに寄与するという考えが中心です。しかし、実際には高齢化や新しい住民の無関心といった課題が存在し、近所付き合いが十分に行われていない現状への懸念も表れています。","value":8,"parent":"1_5","density_rank_percentile":0.72},{"level":2,"id":"2_6","label":"避難所運営と地域コミュニティの強化","takeaway":"この意見グループは、災害時の避難所運営における地域コミュニティの重要性を強調しています。避難所の場所を知ることや、事前に顔を合わせてお互いの人となりを理解することで、役割分担や適切な誘導が可能になるという意見が中心です。また、集合場所の決定や避難時の支援体制の構築が求められています。","value":7,"parent":"1_1","density_rank_percentile":0.48},{"level":2,"id":"2_1","label":"地域住民との交流促進と顔見知りの重要性","takeaway":"この意見グループは、マンションに住む人々が隣人や地域住民との面識を持つことの重要性を強調しています。顔見知りになることで、地域のつながりが深まり、安心感やコミュニティの一体感が生まれることが期待されています。また、定期的な交流の場を設けることが提案されており、地域の人々との関係構築が進むことが望まれています。","value":6,"parent":"1_3","density_rank_percentile":0.24},{"level":2,"id":"2_0","label":"災害時の人間関係と助け合いの重要性","takeaway":"この意見グループは、災害時における人間関係の重要性と、普段からのコミュニケーションが助け合いに繋がることに焦点を当てています。特に、顔見知りの関係を築くことが災害時の支援や安否確認に役立つという考えが強調されており、信頼関係の構築や周囲への助けを求めることの重要性が述べられています。","value":11,"parent":"1_2","density_rank_percentile":0.28},{"level":2,"id":"2_9","label":"地域コミュニティの強化と人間関係の構築","takeaway":"この意見グループは、地域の人々との交流やコミュニケーションの重要性を強調しており、近所の人々とのつながりを深めることや、学校を拠点とした多様な人々との関係構築が求められています。また、LINEのオープンチャットなどのツールを活用してリアルタイムで情報交換を行うことが、良好な関係を築くために有効であると考えられています。","value":8,"parent":"1_3","density_rank_percentile":0.68},{"level":2,"id":"2_3","label":"地域防災意識の向上とコミュニティの連携強化","takeaway":"この意見グループは、防災に対する意識を高めるための具体的な施策や訓練の必要性、地域社会の連携を強化することの重要性に焦点を当てています。無事ですのステッカーの活用や、発災後の治安維持策、日常生活に防災を取り入れる方法、地域イベントを通じた防災意識の醸成など、地域住民が主体的に防災を考えるための取り組みが提案されています。","value":7,"parent":"1_1","density_rank_percentile":0.96},{"level":2,"id":"2_8","label":"災害時の備蓄と公共マナーの重要性","takeaway":"この意見グループは、災害時に備えた水や食料の備蓄の重要性、またそれらを有効活用するための教育やマナーの必要性に焦点を当てています。特に、備蓄品の管理や公共の場でのマナー向上が、災害時の生活環境を改善するために重要であるという意見が多く見られます。","value":12,"parent":"1_2","density_rank_percentile":0.8},{"level":2,"id":"2_24","label":"地域防災意識の向上と避難訓練の重要性","takeaway":"この意見グループは、地域における防災意識の向上と避難訓練の必要性に焦点を当てています。特に、自転車走行などの危険行為の指摘や、避難所の情報共有の重要性、避難訓練の実施を通じて、住民がいざという時に適切に行動できるようにすることが求められています。また、新しい住民への情報提供や、避難所の収容能力に対する不安も表明されています。","value":9,"parent":"1_1","density_rank_percentile":0.64},{"level":2,"id":"2_11","label":"高齢者との日常的なコミュニケーションの重要性","takeaway":"この意見グループは、高齢者との日常的な声かけや交流の重要性に焦点を当てています。普段からの声がけが、相互の関係を深め、気軽にコミュニケーションを取れる環境を作ることが望ましいとされています。また、シナモロールのキャラクターを活用したほんわかした雰囲気作りも提案されており、心温まる交流の促進が期待されています。","value":9,"parent":"1_4","density_rank_percentile":0.04},{"level":2,"id":"2_10","label":"地域コミュニティによる資源共有と支援体制の構築","takeaway":"この意見グループは、地域ごとに備蓄ステーションを設け、物資の共有や人々の協力を促進する仕組みの必要性を強調しています。資源の分配やルールの設定、要介護者の把握など、地域コミュニティが連携して支援体制を整えることの重要性が中心テーマとなっています。","value":6,"parent":"1_2","density_rank_percentile":0.4},{"level":2,"id":"2_7","label":"他者への支援行動に対する不安と自己効力感の探求","takeaway":"この意見グループは、周囲の人々が支援を行わない状況において、自分自身が他者に手を差し伸べることができるかどうかに対する不安や自信の欠如を中心に構成されています。また、実際に行動を起こすことの重要性や、経験を通じて得られる自己効力感についての考察も含まれています。","value":10,"parent":"1_5","density_rank_percentile":0.84},{"level":2,"id":"2_19","label":"情報と物資の円滑な共有によるコミュニティの活性化","takeaway":"この意見グループは、情報交換や物資のシェアがコミュニティにおいて重要であるという認識を示しています。特に、情報共有の円滑化や気軽な相談ができる環境が整うことで、メンバー間のつながりが強化され、経済活動にも良い影響を与えるという点が強調されています。","value":5,"parent":"1_3","density_rank_percentile":0.12},{"level":2,"id":"2_13","label":"地域コミュニティの活性化と情報共有の重要性","takeaway":"この意見グループは、ペット連れや障害者、高齢者など多様なニーズを持つ住民が集まり、情報交換や交流を行うことの重要性を強調しています。また、地域の備えや商店街の情報が集まりやすい環境を整えることで、隣近所や町会の方々とのコミュニケーションが促進され、マンション住人同士の情報共有も必要であるという点が共通しています。","value":5,"parent":"1_3","density_rank_percentile":0.08},{"level":2,"id":"2_15","label":"近隣住民との顔の見える関係構築の重要性","takeaway":"この意見グループは、近隣住民との関係性を深めることの重要性に焦点を当てています。具体的には、日常的な挨拶や顔を覚えること、町会やマンション内でのつながりを大切にすることが、地域の安全や助け合いに繋がるという考えが中心です。顔見知りの関係があれば、緊急時の協力や安全確認がスムーズに行えることが強調されています。","value":9,"parent":"1_3","density_rank_percentile":0.36},{"level":2,"id":"2_20","label":"近所付き合いの重要性と信頼関係の構築","takeaway":"この意見グループは、近所の人々とのコミュニケーションや関係構築の重要性に焦点を当てています。特に、少子高齢化や地域の人々の減少に伴い、個々のつながりが希薄になっている現状を踏まえ、日常的に近所の方々との交流を深めることが、安心感や信頼関係の構築に寄与するという意見が中心です。","value":8,"parent":"1_3","density_rank_percentile":0.32},{"level":2,"id":"2_18","label":"地域コミュニティの連携とサポートの重要性","takeaway":"この意見グループは、地域内での連絡手段やサポート体制の不足に対する不安を表現しており、特に近所付き合いや高齢者への支援が重要であると認識しています。地域コミュニティの連携を強化し、いざという時に備える必要性が強調されています。","value":7,"parent":"1_5","density_rank_percentile":0.88},{"level":2,"id":"2_23","label":"日常的なコミュニケーションの重要性と人間関係の構築","takeaway":"この意見グループは、日常的な交流やコミュニケーションの重要性に焦点を当てており、普段からの関係性づくりや声かけが人間関係を円滑にし、より良いコミュニケーションを促進することが強調されています。特に、あいさつや日常会話などの小さなコミュニケーションが、信頼関係の構築に寄与するという点が共通しています。","value":8,"parent":"1_4","density_rank_percentile":0.52},{"level":2,"id":"2_21","label":"近隣コミュニケーションの重要性と高齢者への配慮","takeaway":"この意見グループは、近所の人々とのコミュニケーションの重要性を強調しており、特に高齢者に対して優しく声をかけることが大切であるという点に焦点を当てています。近隣同士の声かけが地域のつながりを強化し、特におじいちゃんやおばあちゃんとの関係を深めることが重要であるという意見が中心です。","value":6,"parent":"1_4","density_rank_percentile":0.44}],"comments":{},"propertyMap":{},"translations":{},"overview":"地域コミュニティの絆を深め、災害時の相互支援を強化することが重要視されています。住民同士のつながりを育むための交流イベントや情報共有が求められ、特に防災訓練や近所付き合いの促進が強調されています。また、高齢者との日常的な交流が地域の活性化に寄与することが指摘されています。これらの取り組みを通じて、安心で助け合う地域社会の実現が期待されています。","config":{"name":"shinagawa-charter-q2","input":"shinagawa-charter-q2","question":"災害時に地域や周囲の人とどのように助け合えると良いと思いますか？","intro":"しながわ防災区民憲章に対する意見募集の結果です。\n分析対象となったデータの件数は136件で、これらのデータに対してOpenAI API (gpt-4o-mini)を用いて214件の意見（議論）を抽出し、クラスタリングを行った。\n","model":"gpt-4o-mini","provider":"openai","is_pubcom":true,"is_embedded_at_local":false,"local_llm_address":null,"extraction":{"prompt":"あなたは専門的なリサーチアシスタントです。与えられたテキストから、意見を抽出して整理してください。\n\n# 指示\n* 入出力の例に記載したような形式で文字列のリストを返してください\n  * 必要な場合は2つの別個の意見に分割してください。多くの場合は1つの議論にまとめる方が望ましいです。\n* 整理した意見は日本語で出力してください\n\n## 入出力の例\n/human\n\nAIテクノロジーは、そのライフサイクル全体における環境負荷を削減することに焦点を当てて開発されるべきです。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIテクノロジーは、そのライフサイクル全体における環境負荷を削減することに焦点を当てて開発されるべきです。\"\n  ]\n}\n\n/human\n\nAIの能力、限界、倫理的考慮事項について、市民を教育する必要がある。また、教育できる人材を養成する必要がある。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIの能力、限界、倫理的考慮事項について、市民を教育すべき\",\n    \"AIに関する教育をできる人材を養成すべき\"\n  ]\n}\n\n/human\n\nAIはエネルギーグリッドを最適化し、無駄や炭素排出を削減できます。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIはエネルギーグリッドを最適化して炭素排出を削減できる\"\n  ]\n}\n","workers":30,"limit":136,"properties":[],"categories":{},"category_batch_size":5,"source_code":"$17","model":"gpt-4o-mini"},"hierarchical_clustering":{"cluster_nums":[5,25],"source_code":"$18"},"hierarchical_initial_labelling":{"prompt":"あなたはKJ法が得意なデータ分析者です。userのinputはグループに集まったラベルです。なぜそのラベルが一つのグループであるか解説し、表札（label）をつけてください。\n表札については、グループ内の具体的な論点や特徴を反映した、具体性の高い名称を考案してください。\n出力はJSONとし、フォーマットは以下のサンプルを参考にしてください。\n\n\n# サンプルの入出力\n## 入力例\n- 手作業での意見分析は時間がかかりすぎる。AIで効率化できると嬉しい\n- 今のやり方だと分析に工数がかかりすぎるけど、AIならコストをかけずに分析できそう\n- AIが自動で意見を整理してくれると楽になって嬉しい\n\n\n## 出力例\n{\n    \"label\": \"AIによる業務効率の大幅向上とコスト効率化\",\n    \"description\": \"この意見グループは、従来の手作業による意見分析と比較して、AIによる自動化で分析プロセスが効率化され、作業時間の短縮や運用コストの効率化が実現される点に対する前向きな評価が中心です。\"\n}\n","sampling_num":30,"workers":30,"source_code":"$19","model":"gpt-4o-mini"},"hierarchical_merge_labelling":{"prompt":"あなたはデータ分析のエキスパートです。\n現在、テキストデータの階層クラスタリングを行っています。\n下層のクラスタ（意見グループ）のタイトルと説明、およびそれらのクラスタが所属する上層のクラスタのテキストのサンプルを与えるので、上層のクラスタのタイトルと説明を作成してください。\n\n# 指示\n- 統合後のクラスタ名は、統合前のクラスタ名称をそのまま引用せず、内容に基づいた新たな名称にしてください。\n- タイトルには、具体的な事象・行動（例：地域ごとの迅速対応、復興計画の着実な進展、効果的な情報共有・地域協力など）を含めてください\n  - 可能な限り具体的な表現を用いるようにし、抽象的な表現は避けてください\n    - 「多様な意見」などの抽象的な表現は避けてください\n- 出力例に示したJSON形式で出力してください\n\n\n# サンプルの入出力\n## 入力例\n- 「顧客フィードバックの自動集約」: この意見グループは、SNSやオンラインレビューなどから集めた大量の意見をAIが瞬時に解析し、企業が市場のトレンドや顧客の要望を即時に把握できる点についての期待を示しています。\n- 「AIによる業務効率の大幅向上とコスト効率化」: この意見グループは、従来の手作業による意見分析と比較して、AIによる自動化で分析プロセスが効率化され、作業時間の短縮や運用コストの効率化が実現される点に対する前向きな評価が中心です。\n\n## 出力例\n{\n    \"label\": \"AI技術の導入による意見分析の効率化への期待\",\n    \"description\": \"大量の意見やフィードバックから迅速に洞察を抽出できるため、企業や自治体が消費者や市民の声を的確に把握し、戦略的な意思決定やサービス改善が可能になります。また、従来の手法と比べて作業負荷が軽減され、業務効率の向上やコスト削減といった実際の便益が得られると期待されています。\"\n}\n","sampling_num":30,"workers":30,"source_code":"$1a","model":"gpt-4o-mini"},"hierarchical_overview":{"prompt":"/system \n\nあなたはシンクタンクで働く専門のリサーチアシスタントです。\nチームは特定のテーマに関してパブリック・コンサルテーションを実施し、異なる選択肢の意見グループを分析し始めています。\nこれから意見グループのリストとその簡単な分析が提供されます。\nあなたの仕事は、調査結果の簡潔な要約を返すことです。要約は非常に簡潔に（最大で1段落、最大4文）まとめ、無意味な言葉を避けてください。\n出力は日本語で行ってください。\n","source_code":"$1b","model":"gpt-4o-mini"},"hierarchical_aggregation":{"sampling_num":30,"hidden_properties":{},"source_code":"$1c"},"enable_source_link":false,"output_dir":"shinagawa-charter-q2","skip-interaction":true,"without-html":true,"embedding":{"model":"text-embedding-3-small","source_code":"$1d"},"hierarchical_visualization":{"replacements":[],"source_code":"import subprocess\n\n\ndef hierarchical_visualization(config):\n    output_dir = config[\"output_dir\"]\n    cwd = \"../report\"\n    command = f\"REPORT={output_dir} npm run build\"\n\n    try:\n        process = subprocess.Popen(\n            command,\n            shell=True,\n            cwd=cwd,\n            stdout=subprocess.PIPE,\n            stderr=subprocess.PIPE,\n            universal_newlines=True,\n        )\n        while True:\n            output_line = process.stdout.readline()\n            if output_line == \"\" and process.poll() is not None:\n                break\n            if output_line:\n                print(output_line.strip())\n        process.wait()\n        errors = process.stderr.read()\n        if errors:\n            print(\"Errors:\")\n            print(errors)\n    except subprocess.CalledProcessError as e:\n        print(\"Error: \", e)\n"},"plan":[{"step":"extraction","run":true,"reason":"not trace of previous run"},{"step":"embedding","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_clustering","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_initial_labelling","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_merge_labelling","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_overview","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_aggregation","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_visualization","run":false,"reason":"skipping html output"}],"status":"running","start_time":"2025-11-14T03:46:30.717559","completed_jobs":[{"step":"extraction","completed":"2025-11-14T03:46:48.177062","duration":17.454787,"params":{"prompt":"あなたは専門的なリサーチアシスタントです。与えられたテキストから、意見を抽出して整理してください。\n\n# 指示\n* 入出力の例に記載したような形式で文字列のリストを返してください\n  * 必要な場合は2つの別個の意見に分割してください。多くの場合は1つの議論にまとめる方が望ましいです。\n* 整理した意見は日本語で出力してください\n\n## 入出力の例\n/human\n\nAIテクノロジーは、そのライフサイクル全体における環境負荷を削減することに焦点を当てて開発されるべきです。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIテクノロジーは、そのライフサイクル全体における環境負荷を削減することに焦点を当てて開発されるべきです。\"\n  ]\n}\n\n/human\n\nAIの能力、限界、倫理的考慮事項について、市民を教育する必要がある。また、教育できる人材を養成する必要がある。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIの能力、限界、倫理的考慮事項について、市民を教育すべき\",\n    \"AIに関する教育をできる人材を養成すべき\"\n  ]\n}\n\n/human\n\nAIはエネルギーグリッドを最適化し、無駄や炭素排出を削減できます。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIはエネルギーグリッドを最適化して炭素排出を削減できる\"\n  ]\n}\n","workers":30,"limit":136,"properties":[],"categories":{},"category_batch_size":5,"source_code":"$1e","model":"gpt-4o-mini"},"token_usage":78202},{"step":"embedding","completed":"2025-11-14T03:46:49.872201","duration":1.692909,"params":{"model":"text-embedding-3-small","source_code":"$1f"},"token_usage":0},{"step":"hierarchical_clustering","completed":"2025-11-14T03:46:57.650744","duration":7.776455,"params":{"cluster_nums":[5,25],"source_code":"$20"},"token_usage":0},{"step":"hierarchical_initial_labelling","completed":"2025-11-14T03:47:02.791165","duration":5.138783,"params":{"prompt":"あなたはKJ法が得意なデータ分析者です。userのinputはグループに集まったラベルです。なぜそのラベルが一つのグループであるか解説し、表札（label）をつけてください。\n表札については、グループ内の具体的な論点や特徴を反映した、具体性の高い名称を考案してください。\n出力はJSONとし、フォーマットは以下のサンプルを参考にしてください。\n\n\n# サンプルの入出力\n## 入力例\n- 手作業での意見分析は時間がかかりすぎる。AIで効率化できると嬉しい\n- 今のやり方だと分析に工数がかかりすぎるけど、AIならコストをかけずに分析できそう\n- AIが自動で意見を整理してくれると楽になって嬉しい\n\n\n## 出力例\n{\n    \"label\": \"AIによる業務効率の大幅向上とコスト効率化\",\n    \"description\": \"この意見グループは、従来の手作業による意見分析と比較して、AIによる自動化で分析プロセスが効率化され、作業時間の短縮や運用コストの効率化が実現される点に対する前向きな評価が中心です。\"\n}\n","sampling_num":30,"workers":30,"source_code":"$21","model":"gpt-4o-mini"},"token_usage":21282},{"step":"hierarchical_merge_labelling","completed":"2025-11-14T03:47:08.040099","duration":5.247095,"params":{"prompt":"あなたはデータ分析のエキスパートです。\n現在、テキストデータの階層クラスタリングを行っています。\n下層のクラスタ（意見グループ）のタイトルと説明、およびそれらのクラスタが所属する上層のクラスタのテキストのサンプルを与えるので、上層のクラスタのタイトルと説明を作成してください。\n\n# 指示\n- 統合後のクラスタ名は、統合前のクラスタ名称をそのまま引用せず、内容に基づいた新たな名称にしてください。\n- タイトルには、具体的な事象・行動（例：地域ごとの迅速対応、復興計画の着実な進展、効果的な情報共有・地域協力など）を含めてください\n  - 可能な限り具体的な表現を用いるようにし、抽象的な表現は避けてください\n    - 「多様な意見」などの抽象的な表現は避けてください\n- 出力例に示したJSON形式で出力してください\n\n\n# サンプルの入出力\n## 入力例\n- 「顧客フィードバックの自動集約」: この意見グループは、SNSやオンラインレビューなどから集めた大量の意見をAIが瞬時に解析し、企業が市場のトレンドや顧客の要望を即時に把握できる点についての期待を示しています。\n- 「AIによる業務効率の大幅向上とコスト効率化」: この意見グループは、従来の手作業による意見分析と比較して、AIによる自動化で分析プロセスが効率化され、作業時間の短縮や運用コストの効率化が実現される点に対する前向きな評価が中心です。\n\n## 出力例\n{\n    \"label\": \"AI技術の導入による意見分析の効率化への期待\",\n    \"description\": \"大量の意見やフィードバックから迅速に洞察を抽出できるため、企業や自治体が消費者や市民の声を的確に把握し、戦略的な意思決定やサービス改善が可能になります。また、従来の手法と比べて作業負荷が軽減され、業務効率の向上やコスト削減といった実際の便益が得られると期待されています。\"\n}\n","sampling_num":30,"workers":30,"source_code":"$22","model":"gpt-4o-mini"},"token_usage":11055},{"step":"hierarchical_overview","completed":"2025-11-14T03:47:11.545973","duration":3.504033,"params":{"prompt":"/system \n\nあなたはシンクタンクで働く専門のリサーチアシスタントです。\nチームは特定のテーマに関してパブリック・コンサルテーションを実施し、異なる選択肢の意見グループを分析し始めています。\nこれから意見グループのリストとその簡単な分析が提供されます。\nあなたの仕事は、調査結果の簡潔な要約を返すことです。要約は非常に簡潔に（最大で1段落、最大4文）まとめ、無意味な言葉を避けてください。\n出力は日本語で行ってください。\n","source_code":"$23","model":"gpt-4o-mini"},"token_usage":1305}],"total_token_usage":111844,"token_usage_input":101497,"token_usage_output":10347,"lock_until":"2025-11-14T03:52:11.550554","current_job":"hierarchical_aggregation","current_job_started":"2025-11-14T03:47:11.550543","estimated_cost":0.02143275,"current_job_progress":null,"current_jop_tasks":null},"comment_num":136,"visibility":"public"}}],["$","$L24",null,{"result":"$8:1:props:children:1:props:result"}],["$","$L12",null,{"w":"fit-content","mx":"auto","children":["$","$L6",null,{"href":"/","children":["$","$L7",null,{"variant":"outline","size":"md","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"一覧へ戻る"]}]}]}],["$","$L25",null,{"my":12,"maxW":"750px","mx":"auto"}],["$","$L12",null,{"maxW":"750px","mx":"auto","mb":24,"children":"$L26"}]]}],["$","$L27",null,{"meta":{"reporter":"一般社団法人コード・フォー・ジャパン","message":"ともに考え、ともにつくる社会をビジョンに、Decidimの日本での活用などデジタル民主主義を推進しています。","webLink":"https://www.code4japan.org/","privacyLink":"https://www.code4japan.org/privacy-policy","termsLink":null,"brandColor":"#2577B1","isDefault":false}}]]
+b:null
+f:[["$","title","0",{"children":"災害時に地域や周囲の人とどのように助け合えると良いと思いますか？ - 一般社団法人コード・フォー・ジャパン"}],["$","meta","1",{"name":"description","content":"地域コミュニティの絆を深め、災害時の相互支援を強化することが重要視されています。住民同士のつながりを育むための交流イベントや情報共有が求められ、特に防災訓練や近所付き合いの促進が強調されています。また、高齢者との日常的な交流が地域の活性化に寄与することが指摘されています。これらの取り組みを通じて、安心で助け合う地域社会の実現が期待されています。"}],["$","meta","2",{"property":"og:title","content":"災害時に地域や周囲の人とどのように助け合えると良いと思いますか？ - 一般社団法人コード・フォー・ジャパン"}],["$","meta","3",{"property":"og:description","content":"地域コミュニティの絆を深め、災害時の相互支援を強化することが重要視されています。住民同士のつながりを育むための交流イベントや情報共有が求められ、特に防災訓練や近所付き合いの促進が強調されています。また、高齢者との日常的な交流が地域の活性化に寄与することが指摘されています。これらの取り組みを通じて、安心で助け合う地域社会の実現が期待されています。"}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/shinagawa-charter-q2/opengraph-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"災害時に地域や周囲の人とどのように助け合えると良いと思いますか？ - 一般社団法人コード・フォー・ジャパン"}],["$","meta","7",{"name":"twitter:description","content":"地域コミュニティの絆を深め、災害時の相互支援を強化することが重要視されています。住民同士のつながりを育むための交流イベントや情報共有が求められ、特に防災訓練や近所付き合いの促進が強調されています。また、高齢者との日常的な交流が地域の活性化に寄与することが指摘されています。これらの取り組みを通じて、安心で助け合う地域社会の実現が期待されています。"}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/shinagawa-charter-q2/opengraph-image.png"}]]
+28:I[81499,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"ReporterContent"]
+26:["$","$L28",null,{"meta":"$8:2:props:meta","children":"$L29"}]
+2a:I[89248,["150","static/chunks/59650de3-481cc0c44db376d7.js","315","static/chunks/315-19ca0205aa2fdd55.js","567","static/chunks/567-13e48369edb584ec.js","458","static/chunks/458-4db2abcd82f4c9c6.js","874","static/chunks/874-e31c245f344a6bb3.js","261","static/chunks/261-dd24fe22c839e0ae.js","124","static/chunks/124-8b6d8ff5759d10e8.js","116","static/chunks/116-746bc821fa46af6a.js","49","static/chunks/49-b1e59d6cd5c08cd8.js","347","static/chunks/347-1fc22e09a7c5e141.js","182","static/chunks/app/%5Bslug%5D/page-a97111f7f2c073a4.js"],"Image"]
+29:["$","$L2a",null,{"src":"/meta/reporter.png","alt":"一般社団法人コード・フォー・ジャパン","maxW":"150px"}]
